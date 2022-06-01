@@ -1,0 +1,921 @@
+age,sex,painType,restingBP,cholesterol,highBloodSugar,restingECG,restingHR,exerciseAngina,STdepression,STslope,coloredVessels,defectType,heartDisease
+63,male,Typical Angina,145,233,TRUE,Hypertrophy,150,FALSE,2.3,Downsloping,0,FixedDefect,FALSE
+67,male,Asymptomatic,160,286,FALSE,Hypertrophy,108,TRUE,1.5,Flat,3,Normal,TRUE
+67,male,Asymptomatic,120,229,FALSE,Hypertrophy,129,TRUE,2.6,Flat,2,ReversibleDefect,TRUE
+37,male,Non-Anginal Pain,130,250,FALSE,Normal,187,FALSE,3.5,Downsloping,0,Normal,FALSE
+41,female,Atypical Angina,130,204,FALSE,Hypertrophy,172,FALSE,1.4,Upsloping,0,Normal,FALSE
+56,male,Atypical Angina,120,236,FALSE,Normal,178,FALSE,0.8,Upsloping,0,Normal,FALSE
+62,female,Asymptomatic,140,268,FALSE,Hypertrophy,160,FALSE,3.6,Downsloping,2,Normal,TRUE
+57,female,Asymptomatic,120,354,FALSE,Normal,163,TRUE,0.6,Upsloping,0,Normal,FALSE
+63,male,Asymptomatic,130,254,FALSE,Hypertrophy,147,FALSE,1.4,Flat,1,ReversibleDefect,TRUE
+53,male,Asymptomatic,140,203,TRUE,Hypertrophy,155,TRUE,3.1,Downsloping,0,ReversibleDefect,TRUE
+57,male,Asymptomatic,140,192,FALSE,Normal,148,FALSE,0.4,Flat,0,FixedDefect,FALSE
+56,female,Atypical Angina,140,294,FALSE,Hypertrophy,153,FALSE,1.3,Flat,0,Normal,FALSE
+56,male,Non-Anginal Pain,130,256,TRUE,Hypertrophy,142,TRUE,0.6,Flat,1,FixedDefect,TRUE
+44,male,Atypical Angina,120,263,FALSE,Normal,173,FALSE,0,Upsloping,0,ReversibleDefect,FALSE
+52,male,Non-Anginal Pain,172,199,TRUE,Normal,162,FALSE,0.5,Upsloping,0,ReversibleDefect,FALSE
+57,male,Non-Anginal Pain,150,168,FALSE,Normal,174,FALSE,1.6,Upsloping,0,Normal,FALSE
+48,male,Atypical Angina,110,229,FALSE,Normal,168,FALSE,1,Downsloping,0,ReversibleDefect,TRUE
+54,male,Asymptomatic,140,239,FALSE,Normal,160,FALSE,1.2,Upsloping,0,Normal,FALSE
+48,female,Non-Anginal Pain,130,275,FALSE,Normal,139,FALSE,0.2,Upsloping,0,Normal,FALSE
+49,male,Atypical Angina,130,266,FALSE,Normal,171,FALSE,0.6,Upsloping,0,Normal,FALSE
+64,male,Typical Angina,110,211,FALSE,Hypertrophy,144,TRUE,1.8,Flat,0,Normal,FALSE
+58,female,Typical Angina,150,283,TRUE,Hypertrophy,162,FALSE,1,Upsloping,0,Normal,FALSE
+58,male,Atypical Angina,120,284,FALSE,Hypertrophy,160,FALSE,1.8,Flat,0,Normal,TRUE
+58,male,Non-Anginal Pain,132,224,FALSE,Hypertrophy,173,FALSE,3.2,Upsloping,2,ReversibleDefect,TRUE
+60,male,Asymptomatic,130,206,FALSE,Hypertrophy,132,TRUE,2.4,Flat,2,ReversibleDefect,TRUE
+50,female,Non-Anginal Pain,120,219,FALSE,Normal,158,FALSE,1.6,Flat,0,Normal,FALSE
+58,female,Non-Anginal Pain,120,340,FALSE,Normal,172,FALSE,0,Upsloping,0,Normal,FALSE
+66,female,Typical Angina,150,226,FALSE,Normal,114,FALSE,2.6,Downsloping,0,Normal,FALSE
+43,male,Asymptomatic,150,247,FALSE,Normal,171,FALSE,1.5,Upsloping,0,Normal,FALSE
+40,male,Asymptomatic,110,167,FALSE,Hypertrophy,114,TRUE,2,Flat,0,ReversibleDefect,TRUE
+69,female,Typical Angina,140,239,FALSE,Normal,151,FALSE,1.8,Upsloping,2,Normal,FALSE
+60,male,Asymptomatic,117,230,TRUE,Normal,160,TRUE,1.4,Upsloping,2,ReversibleDefect,TRUE
+64,male,Non-Anginal Pain,140,335,FALSE,Normal,158,FALSE,0,Upsloping,0,Normal,TRUE
+59,male,Asymptomatic,135,234,FALSE,Normal,161,FALSE,0.5,Flat,0,ReversibleDefect,FALSE
+44,male,Non-Anginal Pain,130,233,FALSE,Normal,179,TRUE,0.4,Upsloping,0,Normal,FALSE
+42,male,Asymptomatic,140,226,FALSE,Normal,178,FALSE,0,Upsloping,0,Normal,FALSE
+43,male,Asymptomatic,120,177,FALSE,Hypertrophy,120,TRUE,2.5,Flat,0,ReversibleDefect,TRUE
+57,male,Asymptomatic,150,276,FALSE,Hypertrophy,112,TRUE,0.6,Flat,1,FixedDefect,TRUE
+55,male,Asymptomatic,132,353,FALSE,Normal,132,TRUE,1.2,Flat,1,ReversibleDefect,TRUE
+61,male,Non-Anginal Pain,150,243,TRUE,Normal,137,TRUE,1,Flat,0,Normal,FALSE
+65,female,Asymptomatic,150,225,FALSE,Hypertrophy,114,FALSE,1,Flat,3,ReversibleDefect,TRUE
+40,male,Typical Angina,140,199,FALSE,Normal,178,TRUE,1.4,Upsloping,0,ReversibleDefect,FALSE
+71,female,Atypical Angina,160,302,FALSE,Normal,162,FALSE,0.4,Upsloping,2,Normal,FALSE
+59,male,Non-Anginal Pain,150,212,TRUE,Normal,157,FALSE,1.6,Upsloping,0,Normal,FALSE
+61,female,Asymptomatic,130,330,FALSE,Hypertrophy,169,FALSE,0,Upsloping,0,Normal,TRUE
+58,male,Non-Anginal Pain,112,230,FALSE,Hypertrophy,165,FALSE,2.5,Flat,1,ReversibleDefect,TRUE
+51,male,Non-Anginal Pain,110,175,FALSE,Normal,123,FALSE,0.6,Upsloping,0,Normal,FALSE
+50,male,Asymptomatic,150,243,FALSE,Hypertrophy,128,FALSE,2.6,Flat,0,ReversibleDefect,TRUE
+65,female,Non-Anginal Pain,140,417,TRUE,Hypertrophy,157,FALSE,0.8,Upsloping,1,Normal,FALSE
+53,male,Non-Anginal Pain,130,197,TRUE,Hypertrophy,152,FALSE,1.2,Downsloping,0,Normal,FALSE
+41,female,Atypical Angina,105,198,FALSE,Normal,168,FALSE,0,Upsloping,1,Normal,FALSE
+65,male,Asymptomatic,120,177,FALSE,Normal,140,FALSE,0.4,Upsloping,0,ReversibleDefect,FALSE
+44,male,Asymptomatic,112,290,FALSE,Hypertrophy,153,FALSE,0,Upsloping,1,Normal,TRUE
+44,male,Atypical Angina,130,219,FALSE,Hypertrophy,188,FALSE,0,Upsloping,0,Normal,FALSE
+60,male,Asymptomatic,130,253,FALSE,Normal,144,TRUE,1.4,Upsloping,1,ReversibleDefect,TRUE
+54,male,Asymptomatic,124,266,FALSE,Hypertrophy,109,TRUE,2.2,Flat,1,ReversibleDefect,TRUE
+50,male,Non-Anginal Pain,140,233,FALSE,Normal,163,FALSE,0.6,Flat,1,ReversibleDefect,TRUE
+41,male,Asymptomatic,110,172,FALSE,Hypertrophy,158,FALSE,0,Upsloping,0,ReversibleDefect,TRUE
+54,male,Non-Anginal Pain,125,273,FALSE,Hypertrophy,152,FALSE,0.5,Downsloping,1,Normal,FALSE
+51,male,Typical Angina,125,213,FALSE,Hypertrophy,125,TRUE,1.4,Upsloping,1,Normal,FALSE
+51,female,Asymptomatic,130,305,FALSE,Normal,142,TRUE,1.2,Flat,0,ReversibleDefect,TRUE
+46,female,Non-Anginal Pain,142,177,FALSE,Hypertrophy,160,TRUE,1.4,Downsloping,0,Normal,FALSE
+58,male,Asymptomatic,128,216,FALSE,Hypertrophy,131,TRUE,2.2,Flat,3,ReversibleDefect,TRUE
+54,female,Non-Anginal Pain,135,304,TRUE,Normal,170,FALSE,0,Upsloping,0,Normal,FALSE
+54,male,Asymptomatic,120,188,FALSE,Normal,113,FALSE,1.4,Flat,1,ReversibleDefect,TRUE
+60,male,Asymptomatic,145,282,FALSE,Hypertrophy,142,TRUE,2.8,Flat,2,ReversibleDefect,TRUE
+60,male,Non-Anginal Pain,140,185,FALSE,Hypertrophy,155,FALSE,3,Flat,0,Normal,TRUE
+54,male,Non-Anginal Pain,150,232,FALSE,Hypertrophy,165,FALSE,1.6,Upsloping,0,ReversibleDefect,FALSE
+59,male,Asymptomatic,170,326,FALSE,Hypertrophy,140,TRUE,3.4,Downsloping,0,ReversibleDefect,TRUE
+46,male,Non-Anginal Pain,150,231,FALSE,Normal,147,FALSE,3.6,Flat,0,Normal,TRUE
+65,female,Non-Anginal Pain,155,269,FALSE,Normal,148,FALSE,0.8,Upsloping,0,Normal,FALSE
+67,male,Asymptomatic,125,254,TRUE,Normal,163,FALSE,0.2,Flat,2,ReversibleDefect,TRUE
+62,male,Asymptomatic,120,267,FALSE,Normal,99,TRUE,1.8,Flat,2,ReversibleDefect,TRUE
+65,male,Asymptomatic,110,248,FALSE,Hypertrophy,158,FALSE,0.6,Upsloping,2,FixedDefect,TRUE
+44,male,Asymptomatic,110,197,FALSE,Hypertrophy,177,FALSE,0,Upsloping,1,Normal,TRUE
+65,female,Non-Anginal Pain,160,360,FALSE,Hypertrophy,151,FALSE,0.8,Upsloping,0,Normal,FALSE
+60,male,Asymptomatic,125,258,FALSE,Hypertrophy,141,TRUE,2.8,Flat,1,ReversibleDefect,TRUE
+51,female,Non-Anginal Pain,140,308,FALSE,Hypertrophy,142,FALSE,1.5,Upsloping,1,Normal,FALSE
+48,male,Atypical Angina,130,245,FALSE,Hypertrophy,180,FALSE,0.2,Flat,0,Normal,FALSE
+58,male,Asymptomatic,150,270,FALSE,Hypertrophy,111,TRUE,0.8,Upsloping,0,ReversibleDefect,TRUE
+45,male,Asymptomatic,104,208,FALSE,Hypertrophy,148,TRUE,3,Flat,0,Normal,FALSE
+53,female,Asymptomatic,130,264,FALSE,Hypertrophy,143,FALSE,0.4,Flat,0,Normal,FALSE
+39,male,Non-Anginal Pain,140,321,FALSE,Hypertrophy,182,FALSE,0,Upsloping,0,Normal,FALSE
+68,male,Non-Anginal Pain,180,274,TRUE,Hypertrophy,150,TRUE,1.6,Flat,0,ReversibleDefect,TRUE
+52,male,Atypical Angina,120,325,FALSE,Normal,172,FALSE,0.2,Upsloping,0,Normal,FALSE
+44,male,Non-Anginal Pain,140,235,FALSE,Hypertrophy,180,FALSE,0,Upsloping,0,Normal,FALSE
+47,male,Non-Anginal Pain,138,257,FALSE,Hypertrophy,156,FALSE,0,Upsloping,0,Normal,FALSE
+53,female,Non-Anginal Pain,128,216,FALSE,Hypertrophy,115,FALSE,0,Upsloping,0,NA,FALSE
+53,female,Asymptomatic,138,234,FALSE,Hypertrophy,160,FALSE,0,Upsloping,0,Normal,FALSE
+51,female,Non-Anginal Pain,130,256,FALSE,Hypertrophy,149,FALSE,0.5,Upsloping,0,Normal,FALSE
+66,male,Asymptomatic,120,302,FALSE,Hypertrophy,151,FALSE,0.4,Flat,0,Normal,FALSE
+62,female,Asymptomatic,160,164,FALSE,Hypertrophy,145,FALSE,6.2,Downsloping,3,ReversibleDefect,TRUE
+62,male,Non-Anginal Pain,130,231,FALSE,Normal,146,FALSE,1.8,Flat,3,ReversibleDefect,FALSE
+44,female,Non-Anginal Pain,108,141,FALSE,Normal,175,FALSE,0.6,Flat,0,Normal,FALSE
+63,female,Non-Anginal Pain,135,252,FALSE,Hypertrophy,172,FALSE,0,Upsloping,0,Normal,FALSE
+52,male,Asymptomatic,128,255,FALSE,Normal,161,TRUE,0,Upsloping,1,ReversibleDefect,TRUE
+59,male,Asymptomatic,110,239,FALSE,Hypertrophy,142,TRUE,1.2,Flat,1,ReversibleDefect,TRUE
+60,female,Asymptomatic,150,258,FALSE,Hypertrophy,157,FALSE,2.6,Flat,2,ReversibleDefect,TRUE
+52,male,Atypical Angina,134,201,FALSE,Normal,158,FALSE,0.8,Upsloping,1,Normal,FALSE
+48,male,Asymptomatic,122,222,FALSE,Hypertrophy,186,FALSE,0,Upsloping,0,Normal,FALSE
+45,male,Asymptomatic,115,260,FALSE,Hypertrophy,185,FALSE,0,Upsloping,0,Normal,FALSE
+34,male,Typical Angina,118,182,FALSE,Hypertrophy,174,FALSE,0,Upsloping,0,Normal,FALSE
+57,female,Asymptomatic,128,303,FALSE,Hypertrophy,159,FALSE,0,Upsloping,1,Normal,FALSE
+71,female,Non-Anginal Pain,110,265,TRUE,Hypertrophy,130,FALSE,0,Upsloping,1,Normal,FALSE
+49,male,Non-Anginal Pain,120,188,FALSE,Normal,139,FALSE,2,Flat,3,ReversibleDefect,TRUE
+54,male,Atypical Angina,108,309,FALSE,Normal,156,FALSE,0,Upsloping,0,ReversibleDefect,FALSE
+59,male,Asymptomatic,140,177,FALSE,Normal,162,TRUE,0,Upsloping,1,ReversibleDefect,TRUE
+57,male,Non-Anginal Pain,128,229,FALSE,Hypertrophy,150,FALSE,0.4,Flat,1,ReversibleDefect,TRUE
+61,male,Asymptomatic,120,260,FALSE,Normal,140,TRUE,3.6,Flat,1,ReversibleDefect,TRUE
+39,male,Asymptomatic,118,219,FALSE,Normal,140,FALSE,1.2,Flat,0,ReversibleDefect,TRUE
+61,female,Asymptomatic,145,307,FALSE,Hypertrophy,146,TRUE,1,Flat,0,ReversibleDefect,TRUE
+56,male,Asymptomatic,125,249,TRUE,Hypertrophy,144,TRUE,1.2,Flat,1,Normal,TRUE
+52,male,Typical Angina,118,186,FALSE,Hypertrophy,190,FALSE,0,Flat,0,FixedDefect,FALSE
+43,female,Asymptomatic,132,341,TRUE,Hypertrophy,136,TRUE,3,Flat,0,ReversibleDefect,TRUE
+62,female,Non-Anginal Pain,130,263,FALSE,Normal,97,FALSE,1.2,Flat,1,ReversibleDefect,TRUE
+41,male,Atypical Angina,135,203,FALSE,Normal,132,FALSE,0,Flat,0,FixedDefect,FALSE
+58,male,Non-Anginal Pain,140,211,TRUE,Hypertrophy,165,FALSE,0,Upsloping,0,Normal,FALSE
+35,female,Asymptomatic,138,183,FALSE,Normal,182,FALSE,1.4,Upsloping,0,Normal,FALSE
+63,male,Asymptomatic,130,330,TRUE,Hypertrophy,132,TRUE,1.8,Upsloping,3,ReversibleDefect,TRUE
+65,male,Asymptomatic,135,254,FALSE,Hypertrophy,127,FALSE,2.8,Flat,1,ReversibleDefect,TRUE
+48,male,Asymptomatic,130,256,TRUE,Hypertrophy,150,TRUE,0,Upsloping,2,ReversibleDefect,TRUE
+63,female,Asymptomatic,150,407,FALSE,Hypertrophy,154,FALSE,4,Flat,3,ReversibleDefect,TRUE
+51,male,Non-Anginal Pain,100,222,FALSE,Normal,143,TRUE,1.2,Flat,0,Normal,FALSE
+55,male,Asymptomatic,140,217,FALSE,Normal,111,TRUE,5.6,Downsloping,0,ReversibleDefect,TRUE
+65,male,Typical Angina,138,282,TRUE,Hypertrophy,174,FALSE,1.4,Flat,1,Normal,TRUE
+45,female,Atypical Angina,130,234,FALSE,Hypertrophy,175,FALSE,0.6,Flat,0,Normal,FALSE
+56,female,Asymptomatic,200,288,TRUE,Hypertrophy,133,TRUE,4,Downsloping,2,ReversibleDefect,TRUE
+54,male,Asymptomatic,110,239,FALSE,Normal,126,TRUE,2.8,Flat,1,ReversibleDefect,TRUE
+44,male,Atypical Angina,120,220,FALSE,Normal,170,FALSE,0,Upsloping,0,Normal,FALSE
+62,female,Asymptomatic,124,209,FALSE,Normal,163,FALSE,0,Upsloping,0,Normal,FALSE
+54,male,Non-Anginal Pain,120,258,FALSE,Hypertrophy,147,FALSE,0.4,Flat,0,ReversibleDefect,FALSE
+51,male,Non-Anginal Pain,94,227,FALSE,Normal,154,TRUE,0,Upsloping,1,ReversibleDefect,FALSE
+29,male,Atypical Angina,130,204,FALSE,Hypertrophy,202,FALSE,0,Upsloping,0,Normal,FALSE
+51,male,Asymptomatic,140,261,FALSE,Hypertrophy,186,TRUE,0,Upsloping,0,Normal,FALSE
+43,female,Non-Anginal Pain,122,213,FALSE,Normal,165,FALSE,0.2,Flat,0,Normal,FALSE
+55,female,Atypical Angina,135,250,FALSE,Hypertrophy,161,FALSE,1.4,Flat,0,Normal,FALSE
+70,male,Asymptomatic,145,174,FALSE,Normal,125,TRUE,2.6,Downsloping,0,ReversibleDefect,TRUE
+62,male,Atypical Angina,120,281,FALSE,Hypertrophy,103,FALSE,1.4,Flat,1,ReversibleDefect,TRUE
+35,male,Asymptomatic,120,198,FALSE,Normal,130,TRUE,1.6,Flat,0,ReversibleDefect,TRUE
+51,male,Non-Anginal Pain,125,245,TRUE,Hypertrophy,166,FALSE,2.4,Flat,0,Normal,FALSE
+59,male,Atypical Angina,140,221,FALSE,Normal,164,TRUE,0,Upsloping,0,Normal,FALSE
+59,male,Typical Angina,170,288,FALSE,Hypertrophy,159,FALSE,0.2,Flat,0,ReversibleDefect,TRUE
+52,male,Atypical Angina,128,205,TRUE,Normal,184,FALSE,0,Upsloping,0,Normal,FALSE
+64,male,Non-Anginal Pain,125,309,FALSE,Normal,131,TRUE,1.8,Flat,0,ReversibleDefect,TRUE
+58,male,Non-Anginal Pain,105,240,FALSE,Hypertrophy,154,TRUE,0.6,Flat,0,ReversibleDefect,FALSE
+47,male,Non-Anginal Pain,108,243,FALSE,Normal,152,FALSE,0,Upsloping,0,Normal,TRUE
+57,male,Asymptomatic,165,289,TRUE,Hypertrophy,124,FALSE,1,Flat,3,ReversibleDefect,TRUE
+41,male,Non-Anginal Pain,112,250,FALSE,Normal,179,FALSE,0,Upsloping,0,Normal,FALSE
+45,male,Atypical Angina,128,308,FALSE,Hypertrophy,170,FALSE,0,Upsloping,0,Normal,FALSE
+60,female,Non-Anginal Pain,102,318,FALSE,Normal,160,FALSE,0,Upsloping,1,Normal,FALSE
+52,male,Typical Angina,152,298,TRUE,Normal,178,FALSE,1.2,Flat,0,ReversibleDefect,FALSE
+42,female,Asymptomatic,102,265,FALSE,Hypertrophy,122,FALSE,0.6,Flat,0,Normal,FALSE
+67,female,Non-Anginal Pain,115,564,FALSE,Hypertrophy,160,FALSE,1.6,Flat,0,ReversibleDefect,FALSE
+55,male,Asymptomatic,160,289,FALSE,Hypertrophy,145,TRUE,0.8,Flat,1,ReversibleDefect,TRUE
+64,male,Asymptomatic,120,246,FALSE,Hypertrophy,96,TRUE,2.2,Downsloping,1,Normal,TRUE
+70,male,Asymptomatic,130,322,FALSE,Hypertrophy,109,FALSE,2.4,Flat,3,Normal,TRUE
+51,male,Asymptomatic,140,299,FALSE,Normal,173,TRUE,1.6,Upsloping,0,ReversibleDefect,TRUE
+58,male,Asymptomatic,125,300,FALSE,Hypertrophy,171,FALSE,0,Upsloping,2,ReversibleDefect,TRUE
+60,male,Asymptomatic,140,293,FALSE,Hypertrophy,170,FALSE,1.2,Flat,2,ReversibleDefect,TRUE
+68,male,Non-Anginal Pain,118,277,FALSE,Normal,151,FALSE,1,Upsloping,1,ReversibleDefect,FALSE
+46,male,Atypical Angina,101,197,TRUE,Normal,156,FALSE,0,Upsloping,0,ReversibleDefect,FALSE
+77,male,Asymptomatic,125,304,FALSE,Hypertrophy,162,TRUE,0,Upsloping,3,Normal,TRUE
+54,female,Non-Anginal Pain,110,214,FALSE,Normal,158,FALSE,1.6,Flat,0,Normal,FALSE
+58,female,Asymptomatic,100,248,FALSE,Hypertrophy,122,FALSE,1,Flat,0,Normal,FALSE
+48,male,Non-Anginal Pain,124,255,TRUE,Normal,175,FALSE,0,Upsloping,2,Normal,FALSE
+57,male,Asymptomatic,132,207,FALSE,Normal,168,TRUE,0,Upsloping,0,ReversibleDefect,FALSE
+52,male,Non-Anginal Pain,138,223,FALSE,Normal,169,FALSE,0,Upsloping,NA,Normal,FALSE
+54,female,Atypical Angina,132,288,TRUE,Hypertrophy,159,TRUE,0,Upsloping,1,Normal,FALSE
+35,male,Asymptomatic,126,282,FALSE,Hypertrophy,156,TRUE,0,Upsloping,0,ReversibleDefect,TRUE
+45,female,Atypical Angina,112,160,FALSE,Normal,138,FALSE,0,Flat,0,Normal,FALSE
+70,male,Non-Anginal Pain,160,269,FALSE,Normal,112,TRUE,2.9,Flat,1,ReversibleDefect,TRUE
+53,male,Asymptomatic,142,226,FALSE,Hypertrophy,111,TRUE,0,Upsloping,0,ReversibleDefect,FALSE
+59,female,Asymptomatic,174,249,FALSE,Normal,143,TRUE,0,Flat,0,Normal,TRUE
+62,female,Asymptomatic,140,394,FALSE,Hypertrophy,157,FALSE,1.2,Flat,0,Normal,FALSE
+64,male,Asymptomatic,145,212,FALSE,Hypertrophy,132,FALSE,2,Flat,2,FixedDefect,TRUE
+57,male,Asymptomatic,152,274,FALSE,Normal,88,TRUE,1.2,Flat,1,ReversibleDefect,TRUE
+52,male,Asymptomatic,108,233,TRUE,Normal,147,FALSE,0.1,Upsloping,3,ReversibleDefect,FALSE
+56,male,Asymptomatic,132,184,FALSE,Hypertrophy,105,TRUE,2.1,Flat,1,FixedDefect,TRUE
+43,male,Non-Anginal Pain,130,315,FALSE,Normal,162,FALSE,1.9,Upsloping,1,Normal,FALSE
+53,male,Non-Anginal Pain,130,246,TRUE,Hypertrophy,173,FALSE,0,Upsloping,3,Normal,FALSE
+48,male,Asymptomatic,124,274,FALSE,Hypertrophy,166,FALSE,0.5,Flat,0,ReversibleDefect,TRUE
+56,female,Asymptomatic,134,409,FALSE,Hypertrophy,150,TRUE,1.9,Flat,2,ReversibleDefect,TRUE
+42,male,Typical Angina,148,244,FALSE,Hypertrophy,178,FALSE,0.8,Upsloping,2,Normal,FALSE
+59,male,Typical Angina,178,270,FALSE,Hypertrophy,145,FALSE,4.2,Downsloping,0,ReversibleDefect,FALSE
+60,female,Asymptomatic,158,305,FALSE,Hypertrophy,161,FALSE,0,Upsloping,0,Normal,TRUE
+63,female,Atypical Angina,140,195,FALSE,Normal,179,FALSE,0,Upsloping,2,Normal,FALSE
+42,male,Non-Anginal Pain,120,240,TRUE,Normal,194,FALSE,0.8,Downsloping,0,ReversibleDefect,FALSE
+66,male,Atypical Angina,160,246,FALSE,Normal,120,TRUE,0,Flat,3,FixedDefect,TRUE
+54,male,Atypical Angina,192,283,FALSE,Hypertrophy,195,FALSE,0,Upsloping,1,ReversibleDefect,TRUE
+69,male,Non-Anginal Pain,140,254,FALSE,Hypertrophy,146,FALSE,2,Flat,3,ReversibleDefect,TRUE
+50,male,Non-Anginal Pain,129,196,FALSE,Normal,163,FALSE,0,Upsloping,0,Normal,FALSE
+51,male,Asymptomatic,140,298,FALSE,Normal,122,TRUE,4.2,Flat,3,ReversibleDefect,TRUE
+43,male,Asymptomatic,132,247,TRUE,Hypertrophy,143,TRUE,0.1,Flat,NA,ReversibleDefect,TRUE
+62,female,Asymptomatic,138,294,TRUE,Normal,106,FALSE,1.9,Flat,3,Normal,TRUE
+68,female,Non-Anginal Pain,120,211,FALSE,Hypertrophy,115,FALSE,1.5,Flat,0,Normal,FALSE
+67,male,Asymptomatic,100,299,FALSE,Hypertrophy,125,TRUE,0.9,Flat,2,Normal,TRUE
+69,male,Typical Angina,160,234,TRUE,Hypertrophy,131,FALSE,0.1,Flat,1,Normal,FALSE
+45,female,Asymptomatic,138,236,FALSE,Hypertrophy,152,TRUE,0.2,Flat,0,Normal,FALSE
+50,female,Atypical Angina,120,244,FALSE,Normal,162,FALSE,1.1,Upsloping,0,Normal,FALSE
+59,male,Typical Angina,160,273,FALSE,Hypertrophy,125,FALSE,0,Upsloping,0,Normal,TRUE
+50,female,Asymptomatic,110,254,FALSE,Hypertrophy,159,FALSE,0,Upsloping,0,Normal,FALSE
+64,female,Asymptomatic,180,325,FALSE,Normal,154,TRUE,0,Upsloping,0,Normal,FALSE
+57,male,Non-Anginal Pain,150,126,TRUE,Normal,173,FALSE,0.2,Upsloping,1,ReversibleDefect,FALSE
+64,female,Non-Anginal Pain,140,313,FALSE,Normal,133,FALSE,0.2,Upsloping,0,ReversibleDefect,FALSE
+43,male,Asymptomatic,110,211,FALSE,Normal,161,FALSE,0,Upsloping,0,ReversibleDefect,FALSE
+45,male,Asymptomatic,142,309,FALSE,Hypertrophy,147,TRUE,0,Flat,3,ReversibleDefect,TRUE
+58,male,Asymptomatic,128,259,FALSE,Hypertrophy,130,TRUE,3,Flat,2,ReversibleDefect,TRUE
+50,male,Asymptomatic,144,200,FALSE,Hypertrophy,126,TRUE,0.9,Flat,0,ReversibleDefect,TRUE
+55,male,Atypical Angina,130,262,FALSE,Normal,155,FALSE,0,Upsloping,0,Normal,FALSE
+62,female,Asymptomatic,150,244,FALSE,Normal,154,TRUE,1.4,Flat,0,Normal,TRUE
+37,female,Non-Anginal Pain,120,215,FALSE,Normal,170,FALSE,0,Upsloping,0,Normal,FALSE
+38,male,Typical Angina,120,231,FALSE,Normal,182,TRUE,3.8,Flat,0,ReversibleDefect,TRUE
+41,male,Non-Anginal Pain,130,214,FALSE,Hypertrophy,168,FALSE,2,Flat,0,Normal,FALSE
+66,female,Asymptomatic,178,228,TRUE,Normal,165,TRUE,1,Flat,2,ReversibleDefect,TRUE
+52,male,Asymptomatic,112,230,FALSE,Normal,160,FALSE,0,Upsloping,1,Normal,TRUE
+56,male,Typical Angina,120,193,FALSE,Hypertrophy,162,FALSE,1.9,Flat,0,ReversibleDefect,FALSE
+46,female,Atypical Angina,105,204,FALSE,Normal,172,FALSE,0,Upsloping,0,Normal,FALSE
+46,female,Asymptomatic,138,243,FALSE,Hypertrophy,152,TRUE,0,Flat,0,Normal,FALSE
+64,female,Asymptomatic,130,303,FALSE,Normal,122,FALSE,2,Flat,2,Normal,FALSE
+59,male,Asymptomatic,138,271,FALSE,Hypertrophy,182,FALSE,0,Upsloping,0,Normal,FALSE
+41,female,Non-Anginal Pain,112,268,FALSE,Hypertrophy,172,TRUE,0,Upsloping,0,Normal,FALSE
+54,female,Non-Anginal Pain,108,267,FALSE,Hypertrophy,167,FALSE,0,Upsloping,0,Normal,FALSE
+39,female,Non-Anginal Pain,94,199,FALSE,Normal,179,FALSE,0,Upsloping,0,Normal,FALSE
+53,male,Asymptomatic,123,282,FALSE,Normal,95,TRUE,2,Flat,2,ReversibleDefect,TRUE
+63,female,Asymptomatic,108,269,FALSE,Normal,169,TRUE,1.8,Flat,2,Normal,TRUE
+34,female,Atypical Angina,118,210,FALSE,Normal,192,FALSE,0.7,Upsloping,0,Normal,FALSE
+47,male,Asymptomatic,112,204,FALSE,Normal,143,FALSE,0.1,Upsloping,0,Normal,FALSE
+67,female,Non-Anginal Pain,152,277,FALSE,Normal,172,FALSE,0,Upsloping,1,Normal,FALSE
+54,male,Asymptomatic,110,206,FALSE,Hypertrophy,108,TRUE,0,Flat,1,Normal,TRUE
+66,male,Asymptomatic,112,212,FALSE,Hypertrophy,132,TRUE,0.1,Upsloping,1,Normal,TRUE
+52,female,Non-Anginal Pain,136,196,FALSE,Hypertrophy,169,FALSE,0.1,Flat,0,Normal,FALSE
+55,female,Asymptomatic,180,327,FALSE,waveAbnormality,117,TRUE,3.4,Flat,0,Normal,TRUE
+49,male,Non-Anginal Pain,118,149,FALSE,Hypertrophy,126,FALSE,0.8,Upsloping,3,Normal,TRUE
+74,female,Atypical Angina,120,269,FALSE,Hypertrophy,121,TRUE,0.2,Upsloping,1,Normal,FALSE
+54,female,Non-Anginal Pain,160,201,FALSE,Normal,163,FALSE,0,Upsloping,1,Normal,FALSE
+54,male,Asymptomatic,122,286,FALSE,Hypertrophy,116,TRUE,3.2,Flat,2,Normal,TRUE
+56,male,Asymptomatic,130,283,TRUE,Hypertrophy,103,TRUE,1.6,Downsloping,0,ReversibleDefect,TRUE
+46,male,Asymptomatic,120,249,FALSE,Hypertrophy,144,FALSE,0.8,Upsloping,0,ReversibleDefect,TRUE
+49,female,Atypical Angina,134,271,FALSE,Normal,162,FALSE,0,Flat,0,Normal,FALSE
+42,male,Atypical Angina,120,295,FALSE,Normal,162,FALSE,0,Upsloping,0,Normal,FALSE
+41,male,Atypical Angina,110,235,FALSE,Normal,153,FALSE,0,Upsloping,0,Normal,FALSE
+41,female,Atypical Angina,126,306,FALSE,Normal,163,FALSE,0,Upsloping,0,Normal,FALSE
+49,female,Asymptomatic,130,269,FALSE,Normal,163,FALSE,0,Upsloping,0,Normal,FALSE
+61,male,Typical Angina,134,234,FALSE,Normal,145,FALSE,2.6,Flat,2,Normal,TRUE
+60,female,Non-Anginal Pain,120,178,TRUE,Normal,96,FALSE,0,Upsloping,0,Normal,FALSE
+67,male,Asymptomatic,120,237,FALSE,Normal,71,FALSE,1,Flat,0,Normal,TRUE
+58,male,Asymptomatic,100,234,FALSE,Normal,156,FALSE,0.1,Upsloping,1,ReversibleDefect,TRUE
+47,male,Asymptomatic,110,275,FALSE,Hypertrophy,118,TRUE,1,Flat,1,Normal,TRUE
+52,male,Asymptomatic,125,212,FALSE,Normal,168,FALSE,1,Upsloping,2,ReversibleDefect,TRUE
+62,male,Atypical Angina,128,208,TRUE,Hypertrophy,140,FALSE,0,Upsloping,0,Normal,FALSE
+57,male,Asymptomatic,110,201,FALSE,Normal,126,TRUE,1.5,Flat,0,FixedDefect,FALSE
+58,male,Asymptomatic,146,218,FALSE,Normal,105,FALSE,2,Flat,1,ReversibleDefect,TRUE
+64,male,Asymptomatic,128,263,FALSE,Normal,105,TRUE,0.2,Flat,1,ReversibleDefect,FALSE
+51,female,Non-Anginal Pain,120,295,FALSE,Hypertrophy,157,FALSE,0.6,Upsloping,0,Normal,FALSE
+43,male,Asymptomatic,115,303,FALSE,Normal,181,FALSE,1.2,Flat,0,Normal,FALSE
+42,female,Non-Anginal Pain,120,209,FALSE,Normal,173,FALSE,0,Flat,0,Normal,FALSE
+67,female,Asymptomatic,106,223,FALSE,Normal,142,FALSE,0.3,Upsloping,2,Normal,FALSE
+76,female,Non-Anginal Pain,140,197,FALSE,waveAbnormality,116,FALSE,1.1,Flat,0,Normal,FALSE
+70,male,Atypical Angina,156,245,FALSE,Hypertrophy,143,FALSE,0,Upsloping,0,Normal,FALSE
+57,male,Atypical Angina,124,261,FALSE,Normal,141,FALSE,0.3,Upsloping,0,ReversibleDefect,TRUE
+44,female,Non-Anginal Pain,118,242,FALSE,Normal,149,FALSE,0.3,Flat,1,Normal,FALSE
+58,female,Atypical Angina,136,319,TRUE,Hypertrophy,152,FALSE,0,Upsloping,2,Normal,TRUE
+60,female,Typical Angina,150,240,FALSE,Normal,171,FALSE,0.9,Upsloping,0,Normal,FALSE
+44,male,Non-Anginal Pain,120,226,FALSE,Normal,169,FALSE,0,Upsloping,0,Normal,FALSE
+61,male,Asymptomatic,138,166,FALSE,Hypertrophy,125,TRUE,3.6,Flat,1,Normal,TRUE
+42,male,Asymptomatic,136,315,FALSE,Normal,125,TRUE,1.8,Flat,0,FixedDefect,TRUE
+52,male,Asymptomatic,128,204,TRUE,Normal,156,TRUE,1,Flat,0,NA,TRUE
+59,male,Non-Anginal Pain,126,218,TRUE,Normal,134,FALSE,2.2,Flat,1,FixedDefect,TRUE
+40,male,Asymptomatic,152,223,FALSE,Normal,181,FALSE,0,Upsloping,0,ReversibleDefect,TRUE
+42,male,Non-Anginal Pain,130,180,FALSE,Normal,150,FALSE,0,Upsloping,0,Normal,FALSE
+61,male,Asymptomatic,140,207,FALSE,Hypertrophy,138,TRUE,1.9,Upsloping,1,ReversibleDefect,TRUE
+66,male,Asymptomatic,160,228,FALSE,Hypertrophy,138,FALSE,2.3,Upsloping,0,FixedDefect,FALSE
+46,male,Asymptomatic,140,311,FALSE,Normal,120,TRUE,1.8,Flat,2,ReversibleDefect,TRUE
+71,female,Asymptomatic,112,149,FALSE,Normal,125,FALSE,1.6,Flat,0,Normal,FALSE
+59,male,Typical Angina,134,204,FALSE,Normal,162,FALSE,0.8,Upsloping,2,Normal,TRUE
+64,male,Typical Angina,170,227,FALSE,Hypertrophy,155,FALSE,0.6,Flat,0,ReversibleDefect,FALSE
+66,female,Non-Anginal Pain,146,278,FALSE,Hypertrophy,152,FALSE,0,Flat,1,Normal,FALSE
+39,female,Non-Anginal Pain,138,220,FALSE,Normal,152,FALSE,0,Flat,0,Normal,FALSE
+57,male,Atypical Angina,154,232,FALSE,Hypertrophy,164,FALSE,0,Upsloping,1,Normal,TRUE
+58,female,Asymptomatic,130,197,FALSE,Normal,131,FALSE,0.6,Flat,0,Normal,FALSE
+57,male,Asymptomatic,110,335,FALSE,Normal,143,TRUE,3,Flat,1,ReversibleDefect,TRUE
+47,male,Non-Anginal Pain,130,253,FALSE,Normal,179,FALSE,0,Upsloping,0,Normal,FALSE
+55,female,Asymptomatic,128,205,FALSE,waveAbnormality,130,TRUE,2,Flat,1,ReversibleDefect,TRUE
+35,male,Atypical Angina,122,192,FALSE,Normal,174,FALSE,0,Upsloping,0,Normal,FALSE
+61,male,Asymptomatic,148,203,FALSE,Normal,161,FALSE,0,Upsloping,1,ReversibleDefect,TRUE
+58,male,Asymptomatic,114,318,FALSE,waveAbnormality,140,FALSE,4.4,Downsloping,3,FixedDefect,TRUE
+58,female,Asymptomatic,170,225,TRUE,Hypertrophy,146,TRUE,2.8,Flat,2,FixedDefect,TRUE
+58,male,Atypical Angina,125,220,FALSE,Normal,144,FALSE,0.4,Flat,NA,ReversibleDefect,FALSE
+56,male,Atypical Angina,130,221,FALSE,Hypertrophy,163,FALSE,0,Upsloping,0,ReversibleDefect,FALSE
+56,male,Atypical Angina,120,240,FALSE,Normal,169,FALSE,0,Downsloping,0,Normal,FALSE
+67,male,Non-Anginal Pain,152,212,FALSE,Hypertrophy,150,FALSE,0.8,Flat,0,ReversibleDefect,TRUE
+55,female,Atypical Angina,132,342,FALSE,Normal,166,FALSE,1.2,Upsloping,0,Normal,FALSE
+44,male,Asymptomatic,120,169,FALSE,Normal,144,TRUE,2.8,Downsloping,0,FixedDefect,TRUE
+63,male,Asymptomatic,140,187,FALSE,Hypertrophy,144,TRUE,4,Upsloping,2,ReversibleDefect,TRUE
+63,female,Asymptomatic,124,197,FALSE,Normal,136,TRUE,0,Flat,0,Normal,TRUE
+41,male,Atypical Angina,120,157,FALSE,Normal,182,FALSE,0,Upsloping,0,Normal,FALSE
+59,male,Asymptomatic,164,176,TRUE,Hypertrophy,90,FALSE,1,Flat,2,FixedDefect,TRUE
+57,female,Asymptomatic,140,241,FALSE,Normal,123,TRUE,0.2,Flat,0,ReversibleDefect,TRUE
+45,male,Typical Angina,110,264,FALSE,Normal,132,FALSE,1.2,Flat,0,ReversibleDefect,TRUE
+68,male,Asymptomatic,144,193,TRUE,Normal,141,FALSE,3.4,Flat,2,ReversibleDefect,TRUE
+57,male,Asymptomatic,130,131,FALSE,Normal,115,TRUE,1.2,Flat,1,ReversibleDefect,TRUE
+57,female,Atypical Angina,130,236,FALSE,Hypertrophy,174,FALSE,0,Flat,1,Normal,TRUE
+38,male,Non-Anginal Pain,138,175,FALSE,Normal,173,FALSE,0,Upsloping,NA,Normal,FALSE
+63,female,Asymptomatic,140,260,FALSE,waveAbnormality,112,TRUE,3,Flat,NA,NA,TRUE
+44,female,Asymptomatic,130,209,FALSE,waveAbnormality,127,FALSE,0,NA,NA,NA,FALSE
+60,female,Asymptomatic,132,218,FALSE,waveAbnormality,140,TRUE,1.5,Downsloping,NA,NA,TRUE
+55,female,Asymptomatic,142,228,FALSE,waveAbnormality,149,TRUE,2.5,Upsloping,NA,NA,TRUE
+66,female,Non-Anginal Pain,110,213,TRUE,Hypertrophy,99,TRUE,1.3,Flat,NA,NA,FALSE
+66,female,Non-Anginal Pain,120,0,FALSE,waveAbnormality,120,FALSE,-0.5,Upsloping,NA,NA,FALSE
+65,female,Asymptomatic,150,236,TRUE,waveAbnormality,105,TRUE,0,NA,NA,NA,TRUE
+60,female,Non-Anginal Pain,180,0,FALSE,waveAbnormality,140,TRUE,1.5,Flat,NA,NA,FALSE
+60,female,Non-Anginal Pain,120,0,NA,Normal,141,TRUE,2,Upsloping,NA,NA,TRUE
+60,female,Atypical Angina,160,267,TRUE,waveAbnormality,157,FALSE,0.5,Flat,NA,NA,TRUE
+56,female,Atypical Angina,126,166,FALSE,waveAbnormality,140,FALSE,0,NA,NA,NA,FALSE
+59,female,Asymptomatic,140,0,FALSE,waveAbnormality,117,TRUE,1,Flat,NA,NA,TRUE
+62,female,Asymptomatic,110,0,FALSE,Normal,120,TRUE,0.5,Flat,NA,Normal,TRUE
+63,female,Non-Anginal Pain,NA,0,FALSE,Hypertrophy,NA,NA,NA,NA,NA,NA,TRUE
+57,female,Asymptomatic,128,0,TRUE,waveAbnormality,148,TRUE,1,Flat,NA,NA,TRUE
+62,female,Asymptomatic,120,220,FALSE,waveAbnormality,86,FALSE,0,NA,NA,NA,FALSE
+63,female,Asymptomatic,170,177,FALSE,Normal,84,TRUE,2.5,Downsloping,NA,NA,TRUE
+46,female,Asymptomatic,110,236,FALSE,Normal,125,TRUE,2,Flat,NA,NA,TRUE
+63,female,Asymptomatic,126,0,FALSE,waveAbnormality,120,FALSE,1.5,Downsloping,NA,NA,FALSE
+60,female,Asymptomatic,152,0,FALSE,waveAbnormality,118,TRUE,0,NA,NA,ReversibleDefect,FALSE
+58,female,Asymptomatic,116,0,FALSE,Normal,124,FALSE,1,Upsloping,NA,NA,TRUE
+64,female,Asymptomatic,120,0,TRUE,waveAbnormality,106,FALSE,2,Flat,NA,NA,TRUE
+63,female,Non-Anginal Pain,130,0,FALSE,waveAbnormality,111,TRUE,0,NA,NA,NA,TRUE
+74,female,Non-Anginal Pain,NA,0,FALSE,Normal,NA,NA,NA,NA,NA,NA,FALSE
+52,female,Non-Anginal Pain,128,0,FALSE,waveAbnormality,180,FALSE,3,Upsloping,NA,NA,TRUE
+69,female,Asymptomatic,130,0,TRUE,waveAbnormality,129,FALSE,1,Flat,NA,FixedDefect,TRUE
+51,female,Asymptomatic,NA,0,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+60,female,Asymptomatic,130,186,TRUE,waveAbnormality,140,TRUE,0.5,Flat,NA,NA,TRUE
+56,female,Asymptomatic,120,100,FALSE,Normal,120,TRUE,1.5,Flat,0,ReversibleDefect,TRUE
+55,female,Non-Anginal Pain,NA,228,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+54,female,Asymptomatic,NA,0,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+77,female,Asymptomatic,124,171,FALSE,waveAbnormality,110,TRUE,2,Upsloping,NA,NA,TRUE
+63,female,Asymptomatic,160,230,TRUE,Normal,105,TRUE,1,Flat,NA,NA,TRUE
+55,female,Non-Anginal Pain,0,0,FALSE,Normal,155,FALSE,1.5,Flat,NA,NA,TRUE
+52,female,Non-Anginal Pain,122,0,FALSE,Normal,110,TRUE,2,Downsloping,NA,NA,TRUE
+64,female,Asymptomatic,144,0,FALSE,waveAbnormality,122,TRUE,1,Flat,NA,NA,TRUE
+60,female,Asymptomatic,NA,281,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+60,female,Asymptomatic,120,0,FALSE,Normal,133,TRUE,2,Upsloping,NA,ReversibleDefect,FALSE
+58,female,Asymptomatic,NA,203,TRUE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+59,female,Asymptomatic,154,0,FALSE,waveAbnormality,131,TRUE,1.5,NA,0,NA,FALSE
+61,female,Non-Anginal Pain,120,0,FALSE,Normal,80,TRUE,0,Flat,NA,NA,TRUE
+40,female,Asymptomatic,125,0,TRUE,Normal,165,FALSE,0,NA,NA,ReversibleDefect,TRUE
+61,female,Asymptomatic,NA,0,TRUE,waveAbnormality,86,FALSE,1.5,Flat,NA,ReversibleDefect,TRUE
+41,female,Asymptomatic,104,0,FALSE,waveAbnormality,111,FALSE,0,NA,NA,NA,FALSE
+57,female,Asymptomatic,NA,277,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+63,female,Asymptomatic,136,0,FALSE,Normal,84,TRUE,0,NA,NA,ReversibleDefect,TRUE
+59,female,Asymptomatic,122,233,FALSE,Normal,117,TRUE,1.3,Downsloping,NA,NA,TRUE
+51,female,Asymptomatic,128,0,FALSE,Normal,107,FALSE,0,NA,NA,NA,FALSE
+59,female,Non-Anginal Pain,NA,0,FALSE,Normal,128,TRUE,2,Downsloping,NA,NA,TRUE
+42,female,Non-Anginal Pain,134,240,NA,Normal,160,FALSE,0,NA,NA,NA,FALSE
+55,female,Non-Anginal Pain,120,0,FALSE,waveAbnormality,125,TRUE,2.5,Flat,NA,ReversibleDefect,TRUE
+63,female,Atypical Angina,NA,0,FALSE,Normal,NA,NA,NA,NA,NA,NA,FALSE
+62,female,Asymptomatic,152,153,FALSE,waveAbnormality,97,TRUE,1.6,Upsloping,NA,ReversibleDefect,TRUE
+56,female,Atypical Angina,124,224,TRUE,Normal,161,FALSE,2,Flat,NA,NA,FALSE
+53,female,Asymptomatic,126,0,FALSE,Normal,106,FALSE,0,NA,NA,NA,TRUE
+68,female,Asymptomatic,138,0,FALSE,Normal,130,TRUE,3,Flat,NA,NA,TRUE
+53,female,Asymptomatic,154,0,NA,waveAbnormality,140,TRUE,1.5,Flat,NA,NA,TRUE
+60,female,Non-Anginal Pain,NA,316,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+62,female,Atypical Angina,NA,0,FALSE,Normal,NA,NA,NA,NA,NA,NA,FALSE
+59,female,Asymptomatic,178,0,TRUE,Hypertrophy,120,TRUE,0,NA,NA,ReversibleDefect,TRUE
+51,female,Asymptomatic,NA,218,TRUE,Hypertrophy,NA,NA,NA,NA,NA,NA,FALSE
+61,female,Asymptomatic,110,0,NA,Normal,108,TRUE,2,Downsloping,NA,NA,TRUE
+57,female,Asymptomatic,130,311,NA,waveAbnormality,148,TRUE,2,Flat,NA,NA,TRUE
+56,female,Non-Anginal Pain,170,0,FALSE,Hypertrophy,123,TRUE,2.5,NA,NA,NA,TRUE
+58,female,Atypical Angina,126,0,TRUE,Normal,110,TRUE,2,Flat,NA,NA,TRUE
+69,female,Non-Anginal Pain,140,0,NA,waveAbnormality,118,FALSE,2.5,Downsloping,NA,NA,TRUE
+67,female,Typical Angina,142,270,TRUE,Normal,125,FALSE,2.5,Upsloping,NA,NA,TRUE
+58,female,Asymptomatic,120,0,FALSE,Hypertrophy,106,TRUE,1.5,Downsloping,NA,ReversibleDefect,TRUE
+65,female,Asymptomatic,NA,0,FALSE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+63,female,Atypical Angina,NA,217,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+55,female,Atypical Angina,110,214,TRUE,waveAbnormality,180,FALSE,NA,NA,NA,NA,FALSE
+57,female,Asymptomatic,140,214,FALSE,waveAbnormality,144,TRUE,2,Flat,NA,FixedDefect,TRUE
+65,female,Typical Angina,NA,252,FALSE,Normal,NA,NA,NA,NA,NA,NA,FALSE
+54,female,Asymptomatic,136,220,FALSE,Normal,140,TRUE,3,Flat,NA,NA,TRUE
+72,female,Non-Anginal Pain,120,214,FALSE,Normal,102,TRUE,1,Flat,NA,NA,TRUE
+75,female,Asymptomatic,170,203,TRUE,waveAbnormality,108,FALSE,0,NA,NA,ReversibleDefect,TRUE
+49,female,Typical Angina,130,0,FALSE,waveAbnormality,145,FALSE,3,Flat,NA,NA,TRUE
+51,female,Non-Anginal Pain,NA,339,FALSE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+60,female,Asymptomatic,142,216,FALSE,Normal,110,TRUE,2.5,Flat,NA,NA,TRUE
+64,female,Asymptomatic,142,276,FALSE,Normal,140,TRUE,1,Flat,NA,ReversibleDefect,TRUE
+58,female,Asymptomatic,132,458,TRUE,Normal,69,FALSE,1,Downsloping,NA,NA,FALSE
+61,female,Asymptomatic,146,241,FALSE,Normal,148,TRUE,3,Downsloping,NA,NA,TRUE
+67,female,Asymptomatic,160,384,TRUE,waveAbnormality,130,TRUE,0,Flat,NA,NA,TRUE
+62,female,Asymptomatic,135,297,FALSE,Normal,130,TRUE,1,Flat,NA,NA,TRUE
+65,female,Asymptomatic,136,248,FALSE,Normal,140,TRUE,4,Downsloping,NA,NA,TRUE
+63,female,Asymptomatic,130,308,FALSE,Normal,138,TRUE,2,Flat,NA,NA,TRUE
+69,female,Asymptomatic,140,208,FALSE,waveAbnormality,140,TRUE,2,NA,NA,NA,TRUE
+51,female,Asymptomatic,NA,227,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,FALSE
+62,female,Asymptomatic,158,210,TRUE,Normal,112,TRUE,3,Downsloping,NA,NA,TRUE
+55,female,Non-Anginal Pain,NA,245,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+75,female,Asymptomatic,136,225,FALSE,Normal,112,TRUE,3,Flat,NA,NA,TRUE
+40,female,Non-Anginal Pain,106,240,FALSE,Normal,80,TRUE,0,NA,NA,ReversibleDefect,FALSE
+67,female,Asymptomatic,120,0,TRUE,Normal,150,FALSE,1.5,Downsloping,NA,NA,TRUE
+58,female,Asymptomatic,110,198,FALSE,Normal,110,FALSE,0,NA,NA,NA,TRUE
+60,female,Asymptomatic,NA,195,FALSE,Normal,NA,NA,NA,NA,NA,NA,FALSE
+63,female,Asymptomatic,160,267,TRUE,waveAbnormality,88,TRUE,2,NA,NA,NA,TRUE
+35,female,Non-Anginal Pain,NA,161,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,FALSE
+62,female,Typical Angina,112,258,FALSE,waveAbnormality,150,TRUE,NA,NA,NA,NA,TRUE
+43,female,Asymptomatic,122,0,FALSE,Normal,120,FALSE,0.5,Upsloping,NA,NA,TRUE
+63,female,Non-Anginal Pain,130,0,TRUE,waveAbnormality,160,FALSE,3,Flat,NA,NA,FALSE
+68,female,Non-Anginal Pain,150,195,TRUE,Normal,132,FALSE,0,NA,NA,FixedDefect,TRUE
+65,female,Asymptomatic,150,235,FALSE,Normal,120,TRUE,1.5,Flat,NA,NA,TRUE
+48,female,Non-Anginal Pain,102,0,NA,waveAbnormality,110,TRUE,1,Downsloping,NA,NA,TRUE
+63,female,Asymptomatic,96,305,FALSE,waveAbnormality,121,TRUE,1,Upsloping,NA,NA,TRUE
+64,female,Asymptomatic,130,223,FALSE,waveAbnormality,128,FALSE,0.5,Flat,NA,NA,FALSE
+61,female,Asymptomatic,120,282,FALSE,waveAbnormality,135,TRUE,4,Downsloping,NA,FixedDefect,TRUE
+50,female,Asymptomatic,144,349,FALSE,Hypertrophy,120,TRUE,1,Upsloping,NA,ReversibleDefect,TRUE
+59,female,Asymptomatic,124,NA,FALSE,Normal,117,TRUE,1,Flat,NA,NA,TRUE
+55,female,Asymptomatic,150,160,FALSE,waveAbnormality,150,FALSE,0,NA,NA,NA,FALSE
+45,female,Non-Anginal Pain,NA,236,FALSE,Normal,NA,NA,NA,NA,NA,NA,FALSE
+65,female,Asymptomatic,NA,312,FALSE,Hypertrophy,NA,NA,NA,NA,NA,NA,TRUE
+61,female,Atypical Angina,NA,283,FALSE,Normal,NA,NA,NA,NA,NA,NA,FALSE
+49,female,Non-Anginal Pain,NA,142,FALSE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+72,female,Asymptomatic,NA,211,FALSE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+50,female,Asymptomatic,NA,218,FALSE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+64,female,Asymptomatic,NA,306,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+55,female,Asymptomatic,116,186,TRUE,waveAbnormality,102,FALSE,0,NA,NA,NA,TRUE
+63,female,Asymptomatic,110,252,FALSE,waveAbnormality,140,TRUE,2,Flat,NA,NA,TRUE
+59,female,Asymptomatic,125,222,FALSE,Normal,135,TRUE,2.5,Downsloping,NA,NA,TRUE
+56,female,Asymptomatic,NA,0,FALSE,Hypertrophy,NA,NA,NA,NA,NA,NA,TRUE
+62,female,Non-Anginal Pain,NA,0,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+74,female,Asymptomatic,150,258,TRUE,waveAbnormality,130,TRUE,4,Downsloping,NA,NA,TRUE
+54,female,Asymptomatic,130,202,TRUE,Normal,112,TRUE,2,Flat,NA,NA,TRUE
+57,female,Asymptomatic,110,197,FALSE,Hypertrophy,100,FALSE,0,NA,NA,NA,FALSE
+62,female,Non-Anginal Pain,NA,204,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+76,female,Non-Anginal Pain,104,NA,FALSE,Hypertrophy,120,FALSE,3.5,Downsloping,NA,NA,TRUE
+54,female,Asymptomatic,138,274,FALSE,Normal,105,TRUE,1.5,Flat,NA,NA,TRUE
+70,female,Asymptomatic,170,192,FALSE,waveAbnormality,129,TRUE,3,Downsloping,NA,NA,TRUE
+61,female,Atypical Angina,140,298,TRUE,Normal,120,TRUE,0,NA,NA,ReversibleDefect,FALSE
+48,female,Asymptomatic,NA,272,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,FALSE
+48,female,Non-Anginal Pain,132,220,TRUE,waveAbnormality,162,FALSE,0,NA,NA,FixedDefect,TRUE
+61,female,Typical Angina,142,200,TRUE,waveAbnormality,100,FALSE,1.5,Downsloping,NA,NA,TRUE
+66,female,Asymptomatic,112,261,FALSE,Normal,140,FALSE,1.5,Upsloping,NA,NA,TRUE
+68,female,Typical Angina,NA,181,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,FALSE
+55,female,Asymptomatic,172,260,FALSE,Normal,73,FALSE,2,NA,NA,NA,TRUE
+62,female,Non-Anginal Pain,120,220,FALSE,Hypertrophy,86,FALSE,0,NA,NA,NA,FALSE
+71,female,Non-Anginal Pain,NA,221,FALSE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+74,female,Typical Angina,NA,216,TRUE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+53,female,Non-Anginal Pain,155,175,TRUE,waveAbnormality,160,FALSE,NA,NA,NA,FixedDefect,FALSE
+58,female,Non-Anginal Pain,150,219,FALSE,waveAbnormality,118,TRUE,0,NA,NA,NA,TRUE
+75,female,Asymptomatic,160,310,TRUE,Normal,112,TRUE,2,Downsloping,NA,ReversibleDefect,FALSE
+56,female,Non-Anginal Pain,NA,208,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+58,female,Non-Anginal Pain,NA,232,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+64,female,Asymptomatic,134,273,FALSE,Normal,102,TRUE,4,Downsloping,NA,NA,TRUE
+54,female,Non-Anginal Pain,NA,203,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,FALSE
+54,female,Atypical Angina,NA,182,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,FALSE
+59,female,Asymptomatic,140,274,FALSE,Normal,154,TRUE,2,Flat,NA,NA,FALSE
+55,female,Asymptomatic,NA,204,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+57,female,Asymptomatic,144,270,TRUE,waveAbnormality,160,TRUE,2,Flat,NA,NA,TRUE
+61,female,Asymptomatic,NA,292,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+41,female,Asymptomatic,150,171,FALSE,Normal,128,TRUE,1.5,Flat,NA,NA,FALSE
+71,female,Asymptomatic,130,221,FALSE,waveAbnormality,115,TRUE,0,NA,NA,NA,TRUE
+38,female,Asymptomatic,110,289,FALSE,Normal,105,TRUE,1.5,Downsloping,NA,NA,TRUE
+55,female,Asymptomatic,158,217,FALSE,Normal,110,TRUE,2.5,Flat,NA,NA,TRUE
+56,female,Asymptomatic,128,223,FALSE,waveAbnormality,119,TRUE,2,Downsloping,NA,NA,TRUE
+69,female,Asymptomatic,NA,NA,TRUE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+64,female,Asymptomatic,150,193,FALSE,waveAbnormality,135,TRUE,0.5,Flat,NA,NA,TRUE
+72,female,Asymptomatic,160,NA,TRUE,Hypertrophy,130,FALSE,1.5,NA,NA,NA,TRUE
+69,female,Asymptomatic,NA,210,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+56,female,Asymptomatic,NA,282,TRUE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+62,female,Asymptomatic,NA,170,FALSE,waveAbnormality,120,TRUE,3,NA,NA,NA,TRUE
+67,female,Asymptomatic,NA,369,FALSE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+57,female,Asymptomatic,156,173,FALSE,Hypertrophy,119,TRUE,3,Downsloping,NA,NA,TRUE
+69,female,Asymptomatic,NA,289,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+51,female,Asymptomatic,NA,NA,TRUE,Hypertrophy,NA,NA,NA,NA,NA,ReversibleDefect,TRUE
+48,female,Asymptomatic,140,NA,FALSE,Normal,159,TRUE,1.5,Upsloping,NA,NA,TRUE
+69,female,Asymptomatic,122,216,TRUE,Hypertrophy,84,TRUE,0,NA,NA,ReversibleDefect,TRUE
+69,female,Non-Anginal Pain,NA,271,FALSE,Hypertrophy,NA,NA,NA,NA,NA,NA,FALSE
+64,female,Asymptomatic,NA,244,TRUE,waveAbnormality,NA,NA,NA,NA,NA,NA,TRUE
+57,female,Atypical Angina,180,285,TRUE,waveAbnormality,120,FALSE,0.8,NA,NA,NA,TRUE
+53,female,Asymptomatic,124,243,FALSE,Normal,122,TRUE,2,Flat,NA,ReversibleDefect,TRUE
+37,female,Non-Anginal Pain,118,240,FALSE,Hypertrophy,165,FALSE,1,Flat,NA,Normal,FALSE
+67,female,Asymptomatic,140,219,FALSE,waveAbnormality,122,TRUE,2,Flat,NA,ReversibleDefect,TRUE
+74,female,Non-Anginal Pain,140,237,TRUE,Normal,94,FALSE,0,NA,NA,NA,TRUE
+63,female,Atypical Angina,NA,165,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,FALSE
+58,female,Asymptomatic,100,213,FALSE,waveAbnormality,110,FALSE,0,NA,NA,NA,FALSE
+61,female,Asymptomatic,190,287,TRUE,Hypertrophy,150,TRUE,2,Downsloping,NA,NA,TRUE
+64,female,Asymptomatic,130,258,TRUE,Hypertrophy,130,FALSE,0,NA,NA,FixedDefect,TRUE
+58,female,Asymptomatic,160,256,TRUE,Hypertrophy,113,TRUE,1,Upsloping,NA,NA,TRUE
+60,female,Asymptomatic,130,186,TRUE,Hypertrophy,140,TRUE,0.5,Flat,NA,NA,TRUE
+57,female,Asymptomatic,122,264,FALSE,Hypertrophy,100,FALSE,0,NA,NA,NA,TRUE
+55,female,Non-Anginal Pain,NA,NA,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,FALSE
+55,female,Asymptomatic,120,226,FALSE,Hypertrophy,127,TRUE,1.7,Downsloping,NA,ReversibleDefect,TRUE
+56,female,Asymptomatic,130,203,TRUE,Normal,98,FALSE,1.5,Flat,NA,ReversibleDefect,TRUE
+57,female,Asymptomatic,130,207,FALSE,waveAbnormality,96,TRUE,1,Flat,NA,NA,FALSE
+61,female,Non-Anginal Pain,NA,284,FALSE,Normal,NA,NA,NA,NA,NA,NA,TRUE
+61,female,Non-Anginal Pain,120,337,FALSE,Normal,98,TRUE,0,NA,NA,NA,TRUE
+58,female,Non-Anginal Pain,150,219,FALSE,waveAbnormality,118,TRUE,0,NA,NA,NA,TRUE
+74,female,Asymptomatic,155,310,FALSE,Normal,112,TRUE,1.5,Downsloping,NA,NA,TRUE
+68,female,Non-Anginal Pain,134,254,TRUE,Normal,151,TRUE,0,NA,NA,Normal,FALSE
+51,female,Asymptomatic,114,258,TRUE,Hypertrophy,96,FALSE,1,Upsloping,NA,NA,FALSE
+62,female,Asymptomatic,160,254,TRUE,waveAbnormality,108,TRUE,3,Flat,NA,NA,TRUE
+53,female,Asymptomatic,144,300,TRUE,waveAbnormality,128,TRUE,1.5,Flat,NA,NA,TRUE
+62,female,Asymptomatic,158,170,FALSE,waveAbnormality,138,TRUE,0,NA,NA,NA,TRUE
+46,female,Asymptomatic,134,310,FALSE,Normal,126,FALSE,0,NA,NA,Normal,TRUE
+54,female,Asymptomatic,127,333,TRUE,waveAbnormality,154,FALSE,0,NA,NA,NA,TRUE
+62,female,Typical Angina,NA,139,FALSE,waveAbnormality,NA,NA,NA,NA,NA,NA,FALSE
+55,female,Asymptomatic,122,223,TRUE,waveAbnormality,100,FALSE,0,NA,NA,FixedDefect,TRUE
+58,female,Asymptomatic,NA,385,TRUE,Hypertrophy,NA,NA,NA,NA,NA,NA,FALSE
+62,female,Atypical Angina,120,254,FALSE,Hypertrophy,93,TRUE,0,NA,NA,NA,TRUE
+28,female,Atypical Angina,130,132,FALSE,Hypertrophy,185,FALSE,0,NA,NA,NA,FALSE
+29,female,Atypical Angina,120,243,FALSE,Normal,160,FALSE,0,NA,NA,NA,FALSE
+29,female,Atypical Angina,140,NA,FALSE,Normal,170,FALSE,0,NA,NA,NA,FALSE
+30,female,Typical Angina,170,237,FALSE,waveAbnormality,170,FALSE,0,NA,NA,FixedDefect,FALSE
+31,female,Atypical Angina,100,219,FALSE,waveAbnormality,150,FALSE,0,NA,NA,NA,FALSE
+32,female,Atypical Angina,105,198,FALSE,Normal,165,FALSE,0,NA,NA,NA,FALSE
+32,female,Atypical Angina,110,225,FALSE,Normal,184,FALSE,0,NA,NA,NA,FALSE
+32,female,Atypical Angina,125,254,FALSE,Normal,155,FALSE,0,NA,NA,NA,FALSE
+33,female,Non-Anginal Pain,120,298,FALSE,Normal,185,FALSE,0,NA,NA,NA,FALSE
+34,female,Atypical Angina,130,161,FALSE,Normal,190,FALSE,0,NA,NA,NA,FALSE
+34,female,Atypical Angina,150,214,FALSE,waveAbnormality,168,FALSE,0,NA,NA,NA,FALSE
+34,female,Atypical Angina,98,220,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+35,female,Typical Angina,120,160,FALSE,waveAbnormality,185,FALSE,0,NA,NA,NA,FALSE
+35,female,Asymptomatic,140,167,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+35,female,Atypical Angina,120,308,FALSE,Hypertrophy,180,FALSE,0,NA,NA,NA,FALSE
+35,female,Atypical Angina,150,264,FALSE,Normal,168,FALSE,0,NA,NA,NA,FALSE
+36,female,Atypical Angina,120,166,FALSE,Normal,180,FALSE,0,NA,NA,NA,FALSE
+36,female,Non-Anginal Pain,112,340,FALSE,Normal,184,FALSE,1,Flat,NA,Normal,FALSE
+36,female,Non-Anginal Pain,130,209,FALSE,Normal,178,FALSE,0,NA,NA,NA,FALSE
+36,female,Non-Anginal Pain,150,160,FALSE,Normal,172,FALSE,0,NA,NA,NA,FALSE
+37,female,Atypical Angina,120,260,FALSE,Normal,130,FALSE,0,NA,NA,NA,FALSE
+37,female,Non-Anginal Pain,130,211,FALSE,Normal,142,FALSE,0,NA,NA,NA,FALSE
+37,female,Asymptomatic,130,173,FALSE,waveAbnormality,184,FALSE,0,NA,NA,NA,FALSE
+37,female,Atypical Angina,130,283,FALSE,waveAbnormality,98,FALSE,0,NA,NA,NA,FALSE
+37,female,Non-Anginal Pain,130,194,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+37,female,Asymptomatic,120,223,FALSE,Normal,168,FALSE,0,NA,NA,Normal,FALSE
+37,female,Asymptomatic,130,315,FALSE,Normal,158,FALSE,0,NA,NA,NA,FALSE
+38,female,Atypical Angina,120,275,NA,Normal,129,FALSE,0,NA,NA,NA,FALSE
+38,female,Atypical Angina,140,297,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+38,female,Non-Anginal Pain,145,292,FALSE,Normal,130,FALSE,0,NA,NA,NA,FALSE
+39,female,Non-Anginal Pain,110,182,FALSE,waveAbnormality,180,FALSE,0,NA,NA,NA,FALSE
+39,female,Atypical Angina,120,NA,FALSE,waveAbnormality,146,FALSE,2,Upsloping,NA,NA,FALSE
+39,female,Atypical Angina,120,200,FALSE,Normal,160,TRUE,1,Flat,NA,NA,FALSE
+39,female,Atypical Angina,120,204,FALSE,Normal,145,FALSE,0,NA,NA,NA,FALSE
+39,female,Atypical Angina,130,NA,FALSE,Normal,120,FALSE,0,NA,NA,NA,FALSE
+39,female,Atypical Angina,190,241,FALSE,Normal,106,FALSE,0,NA,NA,NA,FALSE
+39,female,Non-Anginal Pain,120,339,FALSE,Normal,170,FALSE,0,NA,NA,NA,FALSE
+39,female,Non-Anginal Pain,160,147,TRUE,Normal,160,FALSE,0,NA,NA,NA,FALSE
+39,female,Asymptomatic,110,273,FALSE,Normal,132,FALSE,0,NA,NA,NA,FALSE
+39,female,Asymptomatic,130,307,FALSE,Normal,140,FALSE,0,NA,NA,NA,FALSE
+40,female,Atypical Angina,130,275,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+40,female,Atypical Angina,140,289,FALSE,Normal,172,FALSE,0,NA,NA,NA,FALSE
+40,female,Non-Anginal Pain,130,215,FALSE,Normal,138,FALSE,0,NA,NA,NA,FALSE
+40,female,Non-Anginal Pain,130,281,FALSE,Normal,167,FALSE,0,NA,NA,NA,FALSE
+40,female,Non-Anginal Pain,140,NA,FALSE,Normal,188,FALSE,0,NA,NA,NA,FALSE
+41,female,Atypical Angina,110,250,FALSE,waveAbnormality,142,FALSE,0,NA,NA,NA,FALSE
+41,female,Atypical Angina,125,184,FALSE,Normal,180,FALSE,0,NA,NA,NA,FALSE
+41,female,Atypical Angina,130,245,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+41,female,Atypical Angina,120,291,FALSE,waveAbnormality,160,FALSE,0,NA,NA,NA,FALSE
+41,female,Atypical Angina,120,295,FALSE,Normal,170,FALSE,0,NA,NA,NA,FALSE
+41,female,Atypical Angina,125,269,FALSE,Normal,144,FALSE,0,NA,NA,NA,FALSE
+41,female,Asymptomatic,112,250,FALSE,Normal,142,FALSE,0,NA,NA,NA,FALSE
+42,female,Non-Anginal Pain,115,211,FALSE,waveAbnormality,137,FALSE,0,NA,NA,NA,FALSE
+42,female,Atypical Angina,120,196,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+42,female,Atypical Angina,120,198,FALSE,Normal,155,FALSE,0,NA,NA,NA,FALSE
+42,female,Atypical Angina,150,268,FALSE,Normal,136,FALSE,0,NA,NA,NA,FALSE
+42,female,Non-Anginal Pain,120,228,FALSE,Normal,152,TRUE,1.5,Flat,NA,NA,FALSE
+42,female,Non-Anginal Pain,160,147,FALSE,Normal,146,FALSE,0,NA,NA,NA,FALSE
+42,female,Asymptomatic,140,358,FALSE,Normal,170,FALSE,0,NA,NA,NA,FALSE
+43,female,Typical Angina,100,223,FALSE,Normal,142,FALSE,0,NA,NA,NA,FALSE
+43,female,Atypical Angina,120,201,FALSE,Normal,165,FALSE,0,NA,NA,NA,FALSE
+43,female,Atypical Angina,120,215,FALSE,waveAbnormality,175,FALSE,0,NA,NA,NA,FALSE
+43,female,Atypical Angina,120,249,FALSE,waveAbnormality,176,FALSE,0,NA,NA,NA,FALSE
+43,female,Atypical Angina,120,266,FALSE,Normal,118,FALSE,0,NA,NA,NA,FALSE
+43,female,Atypical Angina,150,186,FALSE,Normal,154,FALSE,0,NA,NA,NA,FALSE
+43,female,Non-Anginal Pain,150,NA,FALSE,Normal,175,FALSE,0,NA,NA,Normal,FALSE
+43,female,Atypical Angina,142,207,FALSE,Normal,138,FALSE,0,NA,NA,NA,FALSE
+44,female,Asymptomatic,120,218,FALSE,waveAbnormality,115,FALSE,0,NA,NA,NA,FALSE
+44,female,Atypical Angina,120,184,FALSE,Normal,142,FALSE,1,Flat,NA,NA,FALSE
+44,female,Atypical Angina,130,215,FALSE,Normal,135,FALSE,0,NA,NA,NA,FALSE
+44,female,Asymptomatic,150,412,FALSE,Normal,170,FALSE,0,NA,NA,NA,FALSE
+45,female,Atypical Angina,130,237,FALSE,Normal,170,FALSE,0,NA,NA,NA,FALSE
+45,female,Atypical Angina,180,NA,FALSE,Normal,180,FALSE,0,NA,NA,NA,FALSE
+45,female,Asymptomatic,132,297,FALSE,Normal,144,FALSE,0,NA,NA,NA,FALSE
+45,female,Atypical Angina,140,224,TRUE,Normal,122,FALSE,0,NA,NA,NA,FALSE
+45,female,Non-Anginal Pain,135,NA,FALSE,Normal,110,FALSE,0,NA,NA,NA,FALSE
+45,female,Asymptomatic,120,225,FALSE,Normal,140,FALSE,0,NA,NA,NA,FALSE
+45,female,Asymptomatic,140,224,FALSE,Normal,144,FALSE,0,NA,NA,NA,FALSE
+46,female,Asymptomatic,130,238,FALSE,Normal,90,FALSE,0,NA,NA,NA,FALSE
+46,female,Atypical Angina,140,275,FALSE,Normal,165,TRUE,0,NA,NA,NA,FALSE
+46,female,Non-Anginal Pain,120,230,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+46,female,Non-Anginal Pain,150,163,NA,Normal,116,FALSE,0,NA,NA,NA,FALSE
+46,female,Asymptomatic,110,238,FALSE,waveAbnormality,140,TRUE,1,Flat,NA,Normal,FALSE
+46,female,Asymptomatic,110,240,FALSE,waveAbnormality,140,FALSE,0,NA,NA,Normal,FALSE
+46,female,Asymptomatic,180,280,FALSE,waveAbnormality,120,FALSE,0,NA,NA,NA,FALSE
+47,female,Atypical Angina,140,257,FALSE,Normal,135,FALSE,1,Upsloping,NA,NA,FALSE
+47,female,Non-Anginal Pain,130,NA,FALSE,Normal,145,FALSE,2,Flat,NA,NA,FALSE
+47,female,Typical Angina,110,249,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+47,female,Atypical Angina,160,263,FALSE,Normal,174,FALSE,0,NA,NA,NA,FALSE
+47,female,Asymptomatic,140,276,TRUE,Normal,125,TRUE,0,NA,NA,NA,FALSE
+48,female,Atypical Angina,NA,308,FALSE,waveAbnormality,NA,NA,2,Upsloping,NA,NA,FALSE
+48,female,Atypical Angina,120,NA,TRUE,waveAbnormality,148,FALSE,0,NA,NA,NA,FALSE
+48,female,Atypical Angina,120,284,FALSE,Normal,120,FALSE,0,NA,NA,NA,FALSE
+48,female,Non-Anginal Pain,120,195,FALSE,Normal,125,FALSE,0,NA,NA,NA,FALSE
+48,female,Asymptomatic,108,163,FALSE,Normal,175,FALSE,2,Upsloping,NA,NA,FALSE
+48,female,Asymptomatic,120,254,FALSE,waveAbnormality,110,FALSE,0,NA,NA,NA,FALSE
+48,female,Asymptomatic,150,227,FALSE,Normal,130,TRUE,1,Flat,NA,NA,FALSE
+48,female,Atypical Angina,100,NA,FALSE,Normal,100,FALSE,0,NA,NA,NA,FALSE
+48,female,Atypical Angina,130,245,FALSE,Normal,160,FALSE,0,NA,NA,NA,FALSE
+48,female,Atypical Angina,140,238,FALSE,Normal,118,FALSE,0,NA,NA,NA,FALSE
+48,female,Non-Anginal Pain,110,211,FALSE,Normal,138,FALSE,0,NA,NA,FixedDefect,FALSE
+49,female,Atypical Angina,110,NA,FALSE,Normal,160,FALSE,0,NA,NA,NA,FALSE
+49,female,Atypical Angina,110,NA,FALSE,Normal,160,FALSE,0,NA,NA,NA,FALSE
+49,female,Atypical Angina,124,201,FALSE,Normal,164,FALSE,0,NA,NA,NA,FALSE
+49,female,Non-Anginal Pain,130,207,FALSE,waveAbnormality,135,FALSE,0,NA,NA,NA,FALSE
+49,female,Atypical Angina,100,253,FALSE,Normal,174,FALSE,0,NA,NA,NA,FALSE
+49,female,Non-Anginal Pain,140,187,FALSE,Normal,172,FALSE,0,NA,NA,NA,FALSE
+49,female,Asymptomatic,120,297,NA,Normal,132,FALSE,1,Flat,NA,NA,FALSE
+49,female,Asymptomatic,140,NA,FALSE,Normal,130,FALSE,0,NA,NA,NA,FALSE
+50,female,Atypical Angina,110,202,FALSE,Normal,145,FALSE,0,NA,NA,NA,FALSE
+50,female,Asymptomatic,120,328,FALSE,Normal,110,TRUE,1,Flat,NA,NA,FALSE
+50,female,Atypical Angina,120,168,FALSE,Normal,160,FALSE,0,NA,0,NA,FALSE
+50,female,Atypical Angina,140,216,FALSE,Normal,170,FALSE,0,NA,NA,Normal,FALSE
+50,female,Atypical Angina,170,209,FALSE,waveAbnormality,116,FALSE,0,NA,NA,NA,FALSE
+50,female,Asymptomatic,140,129,FALSE,Normal,135,FALSE,0,NA,NA,NA,FALSE
+50,female,Asymptomatic,150,215,FALSE,Normal,140,TRUE,0,NA,NA,NA,FALSE
+51,female,Atypical Angina,160,194,FALSE,Normal,170,FALSE,0,NA,NA,NA,FALSE
+51,female,Non-Anginal Pain,110,190,FALSE,Normal,120,FALSE,0,NA,NA,NA,FALSE
+51,female,Non-Anginal Pain,130,220,FALSE,Normal,160,TRUE,2,Upsloping,NA,NA,FALSE
+51,female,Non-Anginal Pain,150,200,FALSE,Normal,120,FALSE,0.5,Upsloping,NA,NA,FALSE
+51,female,Atypical Angina,125,188,FALSE,Normal,145,FALSE,0,NA,NA,NA,FALSE
+51,female,Atypical Angina,130,224,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+51,female,Asymptomatic,130,179,FALSE,Normal,100,FALSE,0,NA,NA,ReversibleDefect,FALSE
+52,female,Atypical Angina,120,210,FALSE,Normal,148,FALSE,0,NA,NA,NA,FALSE
+52,female,Atypical Angina,140,NA,FALSE,Normal,140,FALSE,0,NA,NA,NA,FALSE
+52,female,Non-Anginal Pain,125,272,FALSE,Normal,139,FALSE,0,NA,NA,NA,FALSE
+52,female,Asymptomatic,130,180,FALSE,Normal,140,TRUE,1.5,Flat,NA,NA,FALSE
+52,female,Atypical Angina,120,284,FALSE,Normal,118,FALSE,0,NA,NA,NA,FALSE
+52,female,Atypical Angina,140,100,FALSE,Normal,138,TRUE,0,NA,NA,NA,FALSE
+52,female,Atypical Angina,160,196,FALSE,Normal,165,FALSE,0,NA,NA,NA,FALSE
+52,female,Non-Anginal Pain,140,259,FALSE,waveAbnormality,170,FALSE,0,NA,NA,NA,FALSE
+53,female,Atypical Angina,113,468,NA,Normal,127,FALSE,0,NA,NA,NA,FALSE
+53,female,Atypical Angina,140,216,FALSE,Normal,142,TRUE,2,Flat,NA,NA,FALSE
+53,female,Non-Anginal Pain,120,274,FALSE,Normal,130,FALSE,0,NA,NA,NA,FALSE
+53,female,Atypical Angina,120,NA,FALSE,Normal,132,FALSE,0,NA,NA,NA,FALSE
+53,female,Atypical Angina,140,320,FALSE,Normal,162,FALSE,0,NA,NA,NA,FALSE
+53,female,Non-Anginal Pain,120,195,FALSE,Normal,140,FALSE,0,NA,NA,NA,FALSE
+53,female,Asymptomatic,124,260,FALSE,waveAbnormality,112,TRUE,3,Flat,NA,NA,FALSE
+53,female,Asymptomatic,130,182,FALSE,Normal,148,FALSE,0,NA,NA,NA,FALSE
+53,female,Asymptomatic,140,243,FALSE,Normal,155,FALSE,0,NA,NA,NA,FALSE
+54,female,Atypical Angina,120,221,FALSE,Normal,138,FALSE,1,Upsloping,NA,NA,FALSE
+54,female,Atypical Angina,120,230,TRUE,Normal,140,FALSE,0,NA,NA,NA,FALSE
+54,female,Atypical Angina,120,273,FALSE,Normal,150,FALSE,1.5,Flat,NA,NA,FALSE
+54,female,Atypical Angina,130,253,FALSE,waveAbnormality,155,FALSE,0,NA,NA,NA,FALSE
+54,female,Atypical Angina,140,309,NA,waveAbnormality,140,FALSE,0,NA,NA,NA,FALSE
+54,female,Atypical Angina,150,230,FALSE,Normal,130,FALSE,0,NA,NA,NA,FALSE
+54,female,Atypical Angina,160,312,FALSE,Normal,130,FALSE,0,NA,NA,NA,FALSE
+54,female,Typical Angina,120,171,FALSE,Normal,137,FALSE,2,Upsloping,NA,NA,FALSE
+54,female,Atypical Angina,110,208,FALSE,Normal,142,FALSE,0,NA,NA,NA,FALSE
+54,female,Atypical Angina,120,238,FALSE,Normal,154,FALSE,0,NA,NA,NA,FALSE
+54,female,Atypical Angina,120,246,FALSE,Normal,110,FALSE,0,NA,NA,NA,FALSE
+54,female,Atypical Angina,160,195,FALSE,waveAbnormality,130,FALSE,1,Upsloping,NA,NA,FALSE
+54,female,Atypical Angina,160,305,FALSE,Normal,175,FALSE,0,NA,NA,NA,FALSE
+54,female,Non-Anginal Pain,120,217,FALSE,Normal,137,FALSE,0,NA,NA,NA,FALSE
+54,female,Non-Anginal Pain,150,NA,FALSE,Normal,122,FALSE,0,NA,NA,NA,FALSE
+54,female,Asymptomatic,150,365,FALSE,waveAbnormality,134,FALSE,1,Upsloping,NA,NA,FALSE
+55,female,Atypical Angina,110,344,FALSE,waveAbnormality,160,FALSE,0,NA,NA,NA,FALSE
+55,female,Atypical Angina,122,320,FALSE,Normal,155,FALSE,0,NA,NA,NA,FALSE
+55,female,Atypical Angina,130,394,FALSE,Hypertrophy,150,FALSE,0,NA,NA,NA,FALSE
+55,female,Atypical Angina,120,256,TRUE,Normal,137,FALSE,0,NA,NA,ReversibleDefect,FALSE
+55,female,Atypical Angina,140,196,FALSE,Normal,150,FALSE,0,NA,NA,ReversibleDefect,FALSE
+55,female,Atypical Angina,145,326,FALSE,Normal,155,FALSE,0,NA,NA,NA,FALSE
+55,female,Non-Anginal Pain,110,277,FALSE,Normal,160,FALSE,0,NA,NA,NA,FALSE
+55,female,Non-Anginal Pain,120,220,FALSE,Hypertrophy,134,FALSE,0,NA,NA,NA,FALSE
+55,female,Asymptomatic,120,270,FALSE,Normal,140,FALSE,0,NA,NA,NA,FALSE
+55,female,Asymptomatic,140,229,FALSE,Normal,110,TRUE,0.5,Flat,NA,NA,FALSE
+56,female,Non-Anginal Pain,130,219,NA,waveAbnormality,164,FALSE,0,NA,NA,ReversibleDefect,FALSE
+56,female,Atypical Angina,130,184,FALSE,Normal,100,FALSE,0,NA,NA,NA,FALSE
+56,female,Non-Anginal Pain,130,NA,FALSE,Normal,114,FALSE,0,NA,NA,NA,FALSE
+56,female,Non-Anginal Pain,130,276,FALSE,Normal,128,TRUE,1,Upsloping,NA,FixedDefect,FALSE
+56,female,Asymptomatic,120,85,FALSE,Normal,140,FALSE,0,NA,NA,NA,FALSE
+57,female,Typical Angina,130,308,FALSE,Normal,98,FALSE,1,Flat,NA,NA,FALSE
+57,female,Asymptomatic,180,347,FALSE,waveAbnormality,126,TRUE,0.8,Flat,NA,NA,FALSE
+57,female,Atypical Angina,140,260,TRUE,Normal,140,FALSE,0,NA,NA,FixedDefect,FALSE
+58,female,Atypical Angina,130,230,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+58,female,Atypical Angina,130,251,FALSE,Normal,110,FALSE,0,NA,NA,NA,FALSE
+58,female,Non-Anginal Pain,140,179,FALSE,Normal,160,FALSE,0,NA,NA,NA,FALSE
+58,female,Asymptomatic,135,222,FALSE,Normal,100,FALSE,0,NA,NA,NA,FALSE
+59,female,Atypical Angina,130,188,FALSE,Normal,124,FALSE,1,Flat,NA,NA,FALSE
+59,female,Atypical Angina,140,287,FALSE,Normal,150,FALSE,0,NA,NA,NA,FALSE
+59,female,Non-Anginal Pain,130,318,FALSE,Normal,120,TRUE,1,Flat,NA,Normal,FALSE
+59,female,Non-Anginal Pain,180,213,FALSE,Normal,100,FALSE,0,NA,NA,NA,FALSE
+59,female,Asymptomatic,140,NA,FALSE,Normal,140,FALSE,0,NA,0,NA,FALSE
+60,female,Non-Anginal Pain,120,246,FALSE,Hypertrophy,135,FALSE,0,NA,NA,NA,FALSE
+61,female,Asymptomatic,130,294,FALSE,waveAbnormality,120,TRUE,1,Flat,NA,NA,FALSE
+61,female,Asymptomatic,125,292,FALSE,waveAbnormality,115,TRUE,0,NA,NA,NA,FALSE
+62,female,Typical Angina,160,193,FALSE,Normal,116,FALSE,0,NA,NA,NA,FALSE
+62,female,Atypical Angina,140,271,FALSE,Normal,152,FALSE,1,Upsloping,NA,NA,FALSE
+31,female,Asymptomatic,120,270,FALSE,Normal,153,TRUE,1.5,Flat,NA,NA,TRUE
+33,female,Asymptomatic,100,246,FALSE,Normal,150,TRUE,1,Flat,NA,NA,TRUE
+34,female,Typical Angina,140,156,FALSE,Normal,180,FALSE,0,NA,NA,NA,TRUE
+35,female,Atypical Angina,110,257,FALSE,Normal,140,FALSE,0,NA,NA,NA,TRUE
+36,female,Atypical Angina,120,267,FALSE,Normal,160,FALSE,3,Flat,NA,NA,TRUE
+37,female,Asymptomatic,140,207,FALSE,Normal,130,TRUE,1.5,Flat,NA,NA,TRUE
+38,female,Asymptomatic,110,196,FALSE,Normal,166,FALSE,0,NA,NA,NA,TRUE
+38,female,Asymptomatic,120,282,FALSE,Normal,170,FALSE,0,NA,NA,NA,TRUE
+38,female,Asymptomatic,92,117,FALSE,Normal,134,TRUE,2.5,Flat,NA,NA,TRUE
+40,female,Asymptomatic,120,466,NA,Normal,152,TRUE,1,Flat,NA,FixedDefect,TRUE
+41,female,Asymptomatic,110,289,FALSE,Normal,170,FALSE,0,NA,NA,FixedDefect,TRUE
+41,female,Asymptomatic,120,237,NA,Normal,138,TRUE,1,Flat,NA,NA,TRUE
+43,female,Asymptomatic,150,247,FALSE,Normal,130,TRUE,2,Flat,NA,NA,TRUE
+46,female,Asymptomatic,110,202,FALSE,Normal,150,TRUE,0,NA,NA,NA,TRUE
+46,female,Asymptomatic,118,186,FALSE,Normal,124,FALSE,0,NA,NA,ReversibleDefect,TRUE
+46,female,Asymptomatic,120,277,FALSE,Normal,125,TRUE,1,Flat,NA,NA,TRUE
+47,female,Non-Anginal Pain,140,193,FALSE,Normal,145,TRUE,1,Flat,NA,NA,TRUE
+47,female,Asymptomatic,150,226,FALSE,Normal,98,TRUE,1.5,Flat,0,ReversibleDefect,TRUE
+48,female,Asymptomatic,106,263,TRUE,Normal,110,FALSE,0,NA,NA,NA,TRUE
+48,female,Asymptomatic,120,260,FALSE,Normal,115,FALSE,2,Flat,NA,NA,TRUE
+48,female,Asymptomatic,160,268,FALSE,Normal,103,TRUE,1,Flat,NA,NA,TRUE
+49,female,Non-Anginal Pain,160,180,FALSE,Normal,156,FALSE,1,Flat,NA,NA,TRUE
+49,female,Non-Anginal Pain,115,265,FALSE,Normal,175,FALSE,0,NA,NA,NA,TRUE
+49,female,Asymptomatic,130,206,FALSE,Normal,170,FALSE,0,NA,NA,NA,TRUE
+50,female,Non-Anginal Pain,140,288,FALSE,Normal,140,TRUE,0,NA,NA,ReversibleDefect,TRUE
+50,female,Asymptomatic,145,264,FALSE,Normal,150,FALSE,0,NA,NA,NA,TRUE
+51,female,Asymptomatic,160,303,FALSE,Normal,150,TRUE,1,Flat,NA,NA,TRUE
+52,female,Asymptomatic,130,225,FALSE,Normal,120,TRUE,2,Flat,NA,NA,TRUE
+54,female,Asymptomatic,125,216,FALSE,Normal,140,FALSE,0,NA,NA,NA,TRUE
+54,female,Asymptomatic,125,224,FALSE,Normal,122,FALSE,2,Flat,NA,NA,TRUE
+55,female,Asymptomatic,140,201,FALSE,Normal,130,TRUE,3,Flat,NA,NA,TRUE
+57,female,Atypical Angina,140,265,FALSE,waveAbnormality,145,TRUE,1,Flat,NA,NA,TRUE
+58,female,Non-Anginal Pain,130,213,FALSE,waveAbnormality,140,FALSE,0,NA,NA,FixedDefect,TRUE
+59,female,Asymptomatic,130,338,TRUE,waveAbnormality,130,TRUE,1.5,Flat,NA,NA,TRUE
+60,female,Asymptomatic,100,248,FALSE,Normal,125,FALSE,1,Flat,NA,NA,TRUE
+63,female,Asymptomatic,150,223,FALSE,Normal,115,FALSE,0,NA,NA,NA,TRUE
+65,female,Asymptomatic,140,306,TRUE,Normal,87,TRUE,1.5,Flat,NA,NA,TRUE
+32,female,Asymptomatic,118,529,FALSE,Normal,130,FALSE,0,NA,NA,NA,TRUE
+38,female,Asymptomatic,110,NA,FALSE,Normal,150,TRUE,1,Flat,NA,NA,TRUE
+39,female,Asymptomatic,110,280,FALSE,Normal,150,FALSE,0,NA,NA,FixedDefect,TRUE
+40,female,Asymptomatic,150,392,FALSE,Normal,130,FALSE,2,Flat,NA,FixedDefect,TRUE
+43,female,Typical Angina,120,291,FALSE,waveAbnormality,155,FALSE,0,NA,NA,NA,TRUE
+45,female,Asymptomatic,130,219,FALSE,waveAbnormality,130,TRUE,1,Flat,NA,NA,TRUE
+46,female,Asymptomatic,120,231,FALSE,Normal,115,TRUE,0,NA,NA,NA,TRUE
+46,female,Asymptomatic,130,222,FALSE,Normal,112,FALSE,0,NA,NA,NA,TRUE
+48,female,Asymptomatic,122,275,TRUE,waveAbnormality,150,TRUE,2,Downsloping,NA,NA,TRUE
+48,female,Asymptomatic,160,193,FALSE,Normal,102,TRUE,3,Flat,NA,NA,TRUE
+48,female,Asymptomatic,160,329,FALSE,Normal,92,TRUE,1.5,Flat,NA,NA,TRUE
+48,female,Asymptomatic,160,355,FALSE,Normal,99,TRUE,2,Flat,NA,NA,TRUE
+50,female,Asymptomatic,130,233,FALSE,Normal,121,TRUE,2,Flat,NA,ReversibleDefect,TRUE
+52,female,Asymptomatic,120,182,FALSE,Normal,150,FALSE,0,NA,NA,NA,TRUE
+52,female,Asymptomatic,170,NA,FALSE,Normal,126,TRUE,1.5,Flat,NA,NA,TRUE
+53,female,Asymptomatic,120,246,FALSE,Normal,116,TRUE,0,NA,NA,NA,TRUE
+54,female,Non-Anginal Pain,120,237,FALSE,Normal,150,TRUE,1.5,NA,NA,ReversibleDefect,TRUE
+54,female,Asymptomatic,130,242,FALSE,Normal,91,TRUE,1,Flat,NA,NA,TRUE
+54,female,Asymptomatic,130,603,TRUE,Normal,125,TRUE,1,Flat,NA,NA,TRUE
+54,female,Asymptomatic,140,NA,FALSE,Normal,118,TRUE,0,NA,NA,NA,TRUE
+54,female,Asymptomatic,200,198,FALSE,Normal,142,TRUE,2,Flat,NA,NA,TRUE
+55,female,Asymptomatic,140,268,FALSE,Normal,128,TRUE,1.5,Flat,NA,NA,TRUE
+56,female,Asymptomatic,150,213,TRUE,Normal,125,TRUE,1,Flat,NA,NA,TRUE
+57,female,Asymptomatic,150,255,FALSE,Normal,92,TRUE,3,Flat,NA,NA,TRUE
+58,female,Non-Anginal Pain,160,211,TRUE,waveAbnormality,92,FALSE,0,NA,NA,NA,TRUE
+58,female,Asymptomatic,130,263,FALSE,Normal,140,TRUE,2,Flat,NA,NA,TRUE
+41,female,Asymptomatic,130,172,FALSE,waveAbnormality,130,FALSE,2,Flat,NA,NA,TRUE
+43,female,Asymptomatic,120,175,FALSE,Normal,120,TRUE,1,Flat,NA,ReversibleDefect,TRUE
+44,female,Atypical Angina,150,288,FALSE,Normal,150,TRUE,3,Flat,NA,NA,TRUE
+44,female,Asymptomatic,130,290,FALSE,Normal,100,TRUE,2,Flat,NA,NA,TRUE
+46,female,Typical Angina,140,272,TRUE,Normal,175,FALSE,2,Flat,NA,NA,TRUE
+47,female,Non-Anginal Pain,135,248,TRUE,Normal,170,FALSE,0,NA,NA,NA,TRUE
+48,female,Asymptomatic,138,214,FALSE,Normal,108,TRUE,1.5,Flat,NA,NA,TRUE
+49,female,Asymptomatic,130,341,FALSE,Normal,120,TRUE,1,Flat,NA,NA,TRUE
+49,female,Asymptomatic,140,234,FALSE,Normal,140,TRUE,1,Flat,NA,NA,TRUE
+51,female,Non-Anginal Pain,135,160,FALSE,Normal,150,FALSE,2,Flat,NA,NA,TRUE
+52,female,Asymptomatic,112,342,FALSE,waveAbnormality,96,TRUE,1,Flat,NA,NA,TRUE
+52,female,Asymptomatic,130,298,FALSE,Normal,110,TRUE,1,Flat,NA,NA,TRUE
+52,female,Asymptomatic,140,404,FALSE,Normal,124,TRUE,2,Flat,NA,NA,TRUE
+52,female,Asymptomatic,160,246,FALSE,waveAbnormality,82,TRUE,4,Flat,NA,NA,TRUE
+53,female,Non-Anginal Pain,145,518,FALSE,Normal,130,FALSE,0,NA,NA,NA,TRUE
+53,female,Asymptomatic,180,285,FALSE,waveAbnormality,120,TRUE,1.5,Flat,NA,NA,TRUE
+54,female,Asymptomatic,140,216,FALSE,Normal,105,FALSE,1.5,Flat,NA,NA,TRUE
+55,female,Typical Angina,140,295,FALSE,NA,136,FALSE,0,NA,NA,NA,TRUE
+55,female,Atypical Angina,160,292,TRUE,Normal,143,TRUE,2,Flat,NA,NA,TRUE
+55,female,Asymptomatic,145,248,FALSE,Normal,96,TRUE,2,Flat,NA,NA,TRUE
+56,female,Atypical Angina,120,279,FALSE,Normal,150,FALSE,1,Flat,NA,NA,TRUE
+56,female,Asymptomatic,150,230,FALSE,waveAbnormality,124,TRUE,1.5,Flat,NA,NA,TRUE
+56,female,Asymptomatic,170,388,FALSE,waveAbnormality,122,TRUE,2,Flat,NA,NA,TRUE
+58,female,Atypical Angina,136,164,FALSE,waveAbnormality,99,TRUE,2,Flat,NA,NA,TRUE
+59,female,Asymptomatic,130,NA,FALSE,Normal,125,FALSE,0,NA,NA,NA,TRUE
+59,female,Asymptomatic,140,264,TRUE,Hypertrophy,119,TRUE,0,NA,NA,NA,TRUE
+65,female,Asymptomatic,170,263,TRUE,Normal,112,TRUE,2,Flat,NA,NA,TRUE
+66,female,Asymptomatic,140,NA,FALSE,Normal,94,TRUE,1,Flat,NA,NA,TRUE
+41,female,Asymptomatic,120,336,FALSE,Normal,118,TRUE,3,Flat,NA,NA,TRUE
+43,female,Asymptomatic,140,288,FALSE,Normal,135,TRUE,2,Flat,NA,NA,TRUE
+44,female,Asymptomatic,135,491,FALSE,Normal,135,FALSE,0,NA,NA,NA,TRUE
+47,female,Asymptomatic,120,205,FALSE,Normal,98,TRUE,2,Flat,NA,FixedDefect,TRUE
+47,female,Asymptomatic,160,291,FALSE,waveAbnormality,158,TRUE,3,Flat,NA,NA,TRUE
+49,female,Asymptomatic,128,212,FALSE,Normal,96,TRUE,0,NA,NA,NA,TRUE
+49,female,Asymptomatic,150,222,FALSE,Normal,122,FALSE,2,Flat,NA,NA,TRUE
+50,female,Asymptomatic,140,231,FALSE,waveAbnormality,140,TRUE,5,Flat,NA,NA,TRUE
+50,female,Asymptomatic,140,341,FALSE,waveAbnormality,125,TRUE,2.5,Flat,NA,NA,TRUE
+52,female,Asymptomatic,140,266,FALSE,Normal,134,TRUE,2,Flat,NA,NA,TRUE
+52,female,Asymptomatic,160,331,FALSE,Normal,94,TRUE,2.5,NA,NA,NA,TRUE
+54,female,Non-Anginal Pain,130,294,FALSE,waveAbnormality,100,TRUE,0,Flat,NA,NA,TRUE
+56,female,Asymptomatic,155,342,TRUE,Normal,150,TRUE,3,Flat,NA,NA,TRUE
+58,female,Atypical Angina,180,393,FALSE,Normal,110,TRUE,1,Flat,NA,ReversibleDefect,TRUE
+65,female,Asymptomatic,130,275,FALSE,waveAbnormality,115,TRUE,1,Flat,NA,NA,TRUE
+32,female,Typical Angina,95,0,NA,Normal,127,FALSE,0.7,Upsloping,NA,NA,TRUE
+34,female,Asymptomatic,115,0,NA,NA,154,FALSE,0.2,Upsloping,NA,NA,TRUE
+35,female,Asymptomatic,NA,0,NA,Normal,130,TRUE,NA,NA,NA,ReversibleDefect,TRUE
+36,female,Asymptomatic,110,0,NA,Normal,125,TRUE,1,Flat,NA,FixedDefect,TRUE
+38,female,Asymptomatic,105,0,NA,Normal,166,FALSE,2.8,Upsloping,NA,NA,TRUE
+38,female,Asymptomatic,110,0,FALSE,Normal,156,FALSE,0,Flat,NA,Normal,TRUE
+38,female,Non-Anginal Pain,100,0,NA,Normal,179,FALSE,-1.1,Upsloping,NA,NA,FALSE
+38,female,Non-Anginal Pain,115,0,FALSE,Normal,128,TRUE,0,Flat,NA,ReversibleDefect,TRUE
+38,female,Asymptomatic,135,0,NA,Normal,150,FALSE,0,NA,NA,Normal,TRUE
+38,female,Asymptomatic,150,0,NA,Normal,120,TRUE,NA,NA,NA,Normal,TRUE
+40,female,Asymptomatic,95,0,NA,waveAbnormality,144,FALSE,0,Upsloping,NA,NA,TRUE
+41,female,Asymptomatic,125,0,NA,Normal,176,FALSE,1.6,Upsloping,NA,NA,TRUE
+42,female,Asymptomatic,105,0,NA,Normal,128,TRUE,-1.5,Downsloping,NA,NA,TRUE
+42,female,Asymptomatic,145,0,FALSE,Normal,99,TRUE,0,Flat,NA,NA,TRUE
+43,female,Asymptomatic,100,0,NA,Normal,122,FALSE,1.5,Downsloping,NA,NA,TRUE
+43,female,Asymptomatic,115,0,FALSE,Normal,145,TRUE,2,Flat,NA,ReversibleDefect,TRUE
+43,female,Asymptomatic,140,0,FALSE,waveAbnormality,140,TRUE,0.5,Upsloping,NA,ReversibleDefect,TRUE
+45,female,Non-Anginal Pain,110,0,NA,Normal,138,FALSE,-0.1,Upsloping,NA,NA,FALSE
+46,female,Asymptomatic,100,0,NA,waveAbnormality,133,FALSE,-2.6,Flat,NA,NA,TRUE
+46,female,Asymptomatic,115,0,FALSE,Normal,113,TRUE,1.5,Flat,NA,ReversibleDefect,TRUE
+47,female,Non-Anginal Pain,110,0,NA,Normal,120,TRUE,0,NA,NA,Normal,TRUE
+47,female,Non-Anginal Pain,155,0,FALSE,Normal,118,TRUE,1,Flat,NA,Normal,TRUE
+47,female,Asymptomatic,110,0,NA,waveAbnormality,149,FALSE,2.1,Upsloping,NA,NA,TRUE
+47,female,Asymptomatic,160,0,FALSE,Normal,124,TRUE,0,Flat,NA,ReversibleDefect,TRUE
+48,female,Asymptomatic,115,0,NA,Normal,128,FALSE,0,Flat,NA,FixedDefect,TRUE
+50,female,Asymptomatic,160,0,NA,Normal,110,FALSE,0,NA,NA,Normal,TRUE
+50,female,Asymptomatic,115,0,FALSE,Normal,120,TRUE,0.5,Flat,NA,FixedDefect,TRUE
+50,female,Asymptomatic,120,0,FALSE,waveAbnormality,156,TRUE,0,Upsloping,NA,FixedDefect,TRUE
+50,female,Asymptomatic,145,0,NA,Normal,139,TRUE,0.7,Flat,NA,NA,TRUE
+51,female,Asymptomatic,120,0,NA,Normal,127,TRUE,1.5,Upsloping,NA,NA,TRUE
+51,female,Asymptomatic,110,0,NA,Normal,92,FALSE,0,Flat,NA,NA,TRUE
+51,female,Asymptomatic,120,0,TRUE,Normal,104,FALSE,0,Flat,NA,Normal,TRUE
+51,female,Asymptomatic,130,0,NA,Normal,170,FALSE,-0.7,Upsloping,NA,NA,TRUE
+51,female,Asymptomatic,130,0,NA,waveAbnormality,163,FALSE,0,NA,NA,ReversibleDefect,TRUE
+51,female,Asymptomatic,140,0,FALSE,Normal,60,FALSE,0,Flat,NA,Normal,TRUE
+51,female,Asymptomatic,95,0,NA,Normal,126,FALSE,2.2,Flat,NA,NA,TRUE
+52,female,Asymptomatic,130,0,NA,Normal,120,FALSE,0,Flat,NA,ReversibleDefect,TRUE
+52,female,Asymptomatic,135,0,NA,Normal,128,TRUE,2,Flat,NA,ReversibleDefect,TRUE
+52,female,Asymptomatic,165,0,NA,Normal,122,TRUE,1,Upsloping,NA,ReversibleDefect,TRUE
+52,female,Asymptomatic,95,0,NA,Normal,82,TRUE,NA,NA,NA,NA,TRUE
+53,female,Atypical Angina,120,0,FALSE,Normal,95,FALSE,0,Flat,NA,Normal,TRUE
+53,female,Atypical Angina,130,0,NA,waveAbnormality,120,FALSE,0.7,Downsloping,NA,NA,FALSE
+53,female,Non-Anginal Pain,105,0,FALSE,Normal,115,FALSE,0,Flat,NA,ReversibleDefect,TRUE
+53,female,Non-Anginal Pain,160,0,NA,Hypertrophy,122,TRUE,0,NA,NA,ReversibleDefect,TRUE
+53,female,Asymptomatic,120,0,NA,Normal,120,FALSE,0,Flat,NA,ReversibleDefect,TRUE
+53,female,Asymptomatic,125,0,NA,Normal,120,FALSE,1.5,Upsloping,NA,NA,TRUE
+53,female,Asymptomatic,130,0,FALSE,Hypertrophy,135,TRUE,1,Flat,NA,ReversibleDefect,TRUE
+53,female,Asymptomatic,80,0,NA,Normal,141,TRUE,2,Downsloping,NA,NA,FALSE
+54,female,Asymptomatic,120,0,FALSE,Normal,155,FALSE,0,Flat,NA,ReversibleDefect,TRUE
+54,female,Asymptomatic,130,0,NA,Normal,110,TRUE,3,Flat,NA,ReversibleDefect,TRUE
+54,female,Asymptomatic,180,0,NA,Normal,150,FALSE,1.5,Flat,NA,ReversibleDefect,TRUE
+55,female,Atypical Angina,140,0,NA,waveAbnormality,150,FALSE,0.2,Upsloping,NA,NA,FALSE
+55,female,Asymptomatic,115,0,NA,Normal,155,FALSE,0.1,Flat,NA,NA,TRUE
+55,female,Asymptomatic,120,0,FALSE,waveAbnormality,92,FALSE,0.3,Upsloping,NA,ReversibleDefect,TRUE
+55,female,Asymptomatic,140,0,FALSE,Normal,83,FALSE,0,Flat,NA,ReversibleDefect,TRUE
+56,female,Non-Anginal Pain,120,0,FALSE,Normal,97,FALSE,0,Flat,NA,ReversibleDefect,FALSE
+56,female,Non-Anginal Pain,125,0,NA,Normal,98,FALSE,-2,Flat,NA,ReversibleDefect,TRUE
+56,female,Non-Anginal Pain,155,0,FALSE,waveAbnormality,99,FALSE,0,Flat,NA,Normal,TRUE
+56,female,Asymptomatic,115,0,NA,waveAbnormality,82,FALSE,-1,Upsloping,NA,NA,TRUE
+56,female,Asymptomatic,120,0,FALSE,waveAbnormality,100,TRUE,-1,Downsloping,NA,ReversibleDefect,TRUE
+56,female,Asymptomatic,120,0,FALSE,waveAbnormality,148,FALSE,0,Flat,NA,NA,TRUE
+56,female,Asymptomatic,125,0,TRUE,Normal,103,TRUE,1,Flat,NA,ReversibleDefect,TRUE
+56,female,Asymptomatic,140,0,NA,Normal,121,TRUE,1.8,Upsloping,NA,NA,TRUE
+57,female,Non-Anginal Pain,105,0,NA,Normal,148,FALSE,0.3,Flat,NA,NA,TRUE
+57,female,Asymptomatic,110,0,NA,waveAbnormality,131,TRUE,1.4,Upsloping,1,NA,TRUE
+57,female,Asymptomatic,140,0,FALSE,Normal,120,TRUE,2,Flat,NA,FixedDefect,TRUE
+57,female,Asymptomatic,140,0,NA,Normal,100,TRUE,0,NA,NA,FixedDefect,TRUE
+57,female,Asymptomatic,160,0,NA,Normal,98,TRUE,2,Flat,NA,ReversibleDefect,TRUE
+57,female,Asymptomatic,95,0,NA,Normal,182,FALSE,0.7,Downsloping,NA,NA,TRUE
+58,female,Asymptomatic,115,0,NA,Normal,138,FALSE,0.5,Upsloping,NA,NA,TRUE
+58,female,Asymptomatic,130,0,FALSE,waveAbnormality,100,TRUE,1,Flat,NA,FixedDefect,TRUE
+58,female,Asymptomatic,170,0,NA,waveAbnormality,105,TRUE,0,NA,NA,Normal,TRUE
+59,female,Non-Anginal Pain,125,0,NA,Normal,175,FALSE,2.6,Flat,NA,NA,TRUE
+59,female,Asymptomatic,110,0,NA,Normal,94,FALSE,0,NA,NA,FixedDefect,TRUE
+59,female,Asymptomatic,120,0,FALSE,Normal,115,FALSE,0,Flat,NA,Normal,TRUE
+59,female,Asymptomatic,125,0,NA,Normal,119,TRUE,0.9,Upsloping,NA,NA,TRUE
+59,female,Asymptomatic,135,0,FALSE,Normal,115,TRUE,1,Flat,NA,ReversibleDefect,TRUE
+60,female,Non-Anginal Pain,115,0,NA,Normal,143,FALSE,2.4,Upsloping,NA,NA,TRUE
+60,female,Asymptomatic,125,0,NA,Normal,110,FALSE,0.1,Upsloping,2,NA,TRUE
+60,female,Asymptomatic,130,0,NA,waveAbnormality,130,TRUE,1.1,Downsloping,1,NA,TRUE
+60,female,Asymptomatic,135,0,FALSE,Normal,63,TRUE,0.5,Upsloping,NA,ReversibleDefect,TRUE
+60,female,Asymptomatic,160,0,FALSE,waveAbnormality,99,TRUE,0.5,Flat,NA,ReversibleDefect,TRUE
+60,female,Asymptomatic,160,0,NA,Normal,149,FALSE,0.4,Flat,NA,NA,TRUE
+61,female,Non-Anginal Pain,200,0,NA,waveAbnormality,70,FALSE,0,NA,NA,Normal,TRUE
+61,female,Asymptomatic,105,0,NA,Normal,110,TRUE,1.5,Upsloping,NA,NA,TRUE
+61,female,Asymptomatic,110,0,NA,Normal,113,FALSE,1.4,Flat,NA,NA,TRUE
+61,female,Asymptomatic,125,0,FALSE,Normal,105,TRUE,0,Downsloping,NA,ReversibleDefect,TRUE
+61,female,Asymptomatic,130,0,FALSE,Hypertrophy,115,FALSE,0,Flat,NA,ReversibleDefect,TRUE
+61,female,Asymptomatic,130,0,NA,Normal,77,FALSE,2.5,Flat,NA,NA,TRUE
+61,female,Asymptomatic,150,0,FALSE,Normal,105,TRUE,0,Flat,NA,ReversibleDefect,TRUE
+61,female,Asymptomatic,150,0,FALSE,Normal,117,TRUE,2,Flat,NA,ReversibleDefect,TRUE
+61,female,Asymptomatic,160,0,TRUE,waveAbnormality,145,FALSE,1,Flat,NA,ReversibleDefect,TRUE
+62,female,Typical Angina,140,0,NA,Normal,143,FALSE,0,NA,NA,Normal,TRUE
+62,female,Asymptomatic,120,0,NA,waveAbnormality,123,TRUE,1.7,Downsloping,NA,NA,TRUE
+62,female,Typical Angina,120,0,NA,Hypertrophy,134,FALSE,-0.8,Flat,2,NA,TRUE
+62,female,Non-Anginal Pain,160,0,FALSE,Normal,72,TRUE,0,Flat,NA,Normal,TRUE
+62,female,Asymptomatic,115,0,NA,Normal,128,TRUE,2.5,Downsloping,NA,NA,TRUE
+62,female,Asymptomatic,115,0,NA,Normal,72,TRUE,-0.5,Flat,NA,Normal,TRUE
+62,female,Asymptomatic,150,0,NA,waveAbnormality,78,FALSE,2,Flat,NA,ReversibleDefect,TRUE
+63,female,Asymptomatic,100,0,NA,Normal,109,FALSE,-0.9,Flat,NA,NA,TRUE
+63,female,Asymptomatic,140,0,NA,Hypertrophy,149,FALSE,2,Upsloping,NA,NA,TRUE
+63,female,Asymptomatic,150,0,FALSE,Normal,86,TRUE,2,Flat,NA,NA,TRUE
+63,female,Asymptomatic,150,0,NA,waveAbnormality,154,FALSE,3.7,Upsloping,NA,NA,TRUE
+63,female,Asymptomatic,185,0,FALSE,Normal,98,TRUE,0,Upsloping,NA,ReversibleDefect,TRUE
+64,female,Asymptomatic,200,0,FALSE,Normal,140,TRUE,1,Flat,NA,Normal,TRUE
+64,female,Asymptomatic,95,0,NA,Normal,145,FALSE,1.1,Downsloping,NA,NA,TRUE
+64,female,Asymptomatic,110,0,NA,Normal,114,TRUE,1.3,Downsloping,NA,NA,TRUE
+65,female,Asymptomatic,115,0,FALSE,Normal,93,TRUE,0,Flat,NA,ReversibleDefect,TRUE
+65,female,Asymptomatic,145,0,NA,waveAbnormality,67,FALSE,NA,NA,NA,FixedDefect,TRUE
+65,female,Asymptomatic,155,0,NA,Normal,154,FALSE,1,Upsloping,NA,NA,FALSE
+65,female,Asymptomatic,160,0,TRUE,waveAbnormality,122,FALSE,NA,NA,NA,ReversibleDefect,TRUE
+66,female,Asymptomatic,155,0,NA,Normal,90,FALSE,0,NA,NA,ReversibleDefect,TRUE
+66,female,Asymptomatic,150,0,FALSE,Normal,108,TRUE,2,Flat,NA,ReversibleDefect,TRUE
+67,female,Typical Angina,145,0,FALSE,Hypertrophy,125,FALSE,0,Flat,NA,Normal,TRUE
+68,female,Asymptomatic,135,0,FALSE,waveAbnormality,120,TRUE,0,Upsloping,NA,ReversibleDefect,TRUE
+68,female,Asymptomatic,145,0,NA,Normal,136,FALSE,1.8,Upsloping,NA,NA,TRUE
+69,female,Asymptomatic,135,0,FALSE,Normal,130,FALSE,0,Flat,NA,FixedDefect,TRUE
+69,female,Asymptomatic,NA,0,FALSE,waveAbnormality,NA,NA,NA,NA,NA,ReversibleDefect,TRUE
+70,female,Asymptomatic,115,0,FALSE,waveAbnormality,92,TRUE,0,Flat,NA,ReversibleDefect,TRUE
+70,female,Asymptomatic,140,0,TRUE,Normal,157,TRUE,2,Flat,NA,ReversibleDefect,TRUE
+72,female,Non-Anginal Pain,160,0,NA,Hypertrophy,114,FALSE,1.6,Flat,2,NA,FALSE
+73,female,Non-Anginal Pain,160,0,FALSE,waveAbnormality,121,FALSE,0,Upsloping,NA,Normal,TRUE
+74,female,Atypical Angina,145,0,NA,waveAbnormality,123,FALSE,1.3,Upsloping,NA,NA,TRUE
